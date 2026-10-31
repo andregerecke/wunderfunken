@@ -2,13 +2,15 @@
 
 Stand: 31.10.2026
 
+Adresse: https://andregerecke.github.io/wunderfunken/
+
 | Stufe | Stand |
 | --- | --- |
 | Lokal funktionsfähig | **Ja** |
 | Deployment vorbereitet | **Ja**, GitHub Pages und Prüfschritte liegen vor |
-| Veröffentlicht | **Nein** |
-| Scheduler konfiguriert | **Nein** |
-| Erfolgreich automatisch ausgeführt | **Nein** |
+| Veröffentlicht | **Ja** |
+| Scheduler konfiguriert | **Ja**, Claude-Routine „Wunderfunken Tagesausgabe“, 05:00, 06:00 und 07:00 UTC, nur der erste Lauf nach 07:00 Berlin arbeitet |
+| Erfolgreich automatisch ausgeführt | **Noch nicht zeitgesteuert.** Am 31.10.2026 lief die Kette einmal von Hand gestartet vollständig durch (Lauf, Freigabe, Veröffentlichung) |
 
 ## Aufbau
 
