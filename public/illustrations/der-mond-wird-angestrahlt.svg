@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img"><title>Der Mond wird angestrahlt</title>
+<rect x="0" y="0" width="1200" height="800" fill="#27375E"/>
+<circle cx="40" cy="60" r="3" fill="#FFF9EC"/><circle cx="300" cy="90" r="3" fill="#FFF9EC"/><circle cx="520" cy="60" r="4" fill="#FFF9EC"/><circle cx="800" cy="80" r="3" fill="#FFF9EC"/><circle cx="1100" cy="120" r="3" fill="#FFF9EC"/><circle cx="1140" cy="700" r="3" fill="#FFF9EC"/><circle cx="260" cy="730" r="3" fill="#FFF9EC"/><circle cx="700" cy="730" r="4" fill="#FFF9EC"/>
+<circle cx="150" cy="400" r="150" fill="#F6B93B" opacity=".25"/>
+<circle cx="150" cy="400" r="105" fill="#F6B93B"/>
+<path d="M270 400 H370 M262 330 L350 290 M262 470 L350 510" fill="none" stroke="#F6B93B" stroke-width="8" stroke-linecap="round"/>
+<circle cx="700" cy="400" r="270" fill="none" stroke="#A9B4B0" stroke-width="4" stroke-dasharray="4 16" stroke-linecap="round"/>
+<circle cx="700" cy="400" r="80" fill="#3F78B5"/>
+<path d="M650 380 Q680 340 720 370 Q700 410 660 420Z M730 430 Q760 410 770 450 Q750 470 730 430Z" fill="#5E9A4B"/>
+<g><circle cx="430" cy="400" r="48" fill="#4A5578"/><path d="M430 352 A48 48 0 0 0 430 448Z" fill="#FFF9EC"/></g>
+<g><circle cx="700" cy="130" r="48" fill="#4A5578"/><path d="M700 82 A48 48 0 0 0 700 178Z" fill="#FFF9EC"/></g>
+<g><circle cx="970" cy="400" r="48" fill="#4A5578"/><path d="M970 352 A48 48 0 0 0 970 448Z" fill="#FFF9EC"/></g>
+<g><circle cx="700" cy="670" r="48" fill="#4A5578"/><path d="M700 622 A48 48 0 0 0 700 718Z" fill="#FFF9EC"/></g>
+</svg>

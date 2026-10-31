@@ -1,0 +1,62 @@
+{
+  "issueDate": "2026-10-31",
+  "post": {
+    "id": "issue-2026-10-31",
+    "slug": "der-mond-wird-angestrahlt",
+    "title": "Warum ändert der Mond seine Form?",
+    "teaser": "Der Mond leuchtet gar nicht selbst. Er wird nur angestrahlt.",
+    "concept": "Der Mond leuchtet nicht selbst, die Sonne strahlt ihn an, und je nach Stellung sehen wir mehr oder weniger davon",
+    "world": "erde",
+    "topics": ["Mond", "Sonne", "Mondphasen", "Himmel"],
+    "stem": { "isStem": true, "reason": "Das Konzept gehört zur Astronomie: Beleuchtung des Mondes durch die Sonne." },
+    "format": "warum",
+    "minutes": 6,
+    "question": "Was glaubst du: Macht der Mond sein Licht selbst, oder bekommt er es von woanders?",
+    "explanation": [
+      "Der Mond ist selbst dunkel. Er hat kein eigenes Licht. Wir sehen ihn nur, weil die Sonne ihn anstrahlt.",
+      "Der Mond wandert in etwa einem Monat um die Erde. Dabei steht er mal hier und mal dort. Von der Erde aus sehen wir deshalb mal viel Helles und mal wenig.",
+      "Bei Neumond ist er für uns ganz dunkel. Bei Vollmond sehen wir ihn ganz hell erleuchtet. Dazwischen wird er größer oder kleiner. Darum sagen wir zunehmender und abnehmender Mond."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/der-mond-wird-angestrahlt.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Links die Sonne, in der Mitte die blaue Erde, rundherum auf einer Kreisbahn vier Monde, bei denen jeweils die Seite zur Sonne hell ist.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Die Sonne strahlt den Mond an",
+      "description": "Links leuchtet die Sonne. In der Mitte ist die Erde. Vier Monde stehen auf einer Bahn um die Erde, und bei jedem ist die Seite zur Sonne hell.",
+      "lookCloser": "Schau mal genau hin: Auf welcher Seite sind alle vier Monde hell, und wohin zeigt diese Seite?"
+    },
+    "wow": "Auch der dunkle Teil des Mondes ist manchmal zu erkennen. Dann fällt Sonnenlicht erst auf die Erde und wird von dort zum Mond zurückgeworfen.",
+    "activity": {
+      "title": "Der Taschenlampen-Mond",
+      "materials": ["ein Ball oder eine Orange", "eine Taschenlampe", "ein dunkler Raum"],
+      "steps": [
+        "Macht den Raum dunkel. Ihr beiden seid die Erde.",
+        "Ein Erwachsener hält den Ball ausgestreckt. Die Taschenlampe leuchtet von der Seite darauf.",
+        "Dreht euch langsam um euch selbst, und schaut dabei auf den Ball.",
+        "Was seht ihr, wenn die Lampe von hinten kommt? Was, wenn sie von der Seite kommt?"
+      ]
+    },
+    "check": {
+      "question": "Woher kommt das Licht, mit dem wir den Mond sehen?",
+      "answer": "Von der Sonne. Der Mond leuchtet nicht selbst, er wird von der Sonne angestrahlt.",
+      "parentPrompt": "Fragt gemeinsam: Wann ist der Mond ganz dunkel, und wann ganz hell? Nehmt dafür den Ball und die Lampe zu Hilfe."
+    },
+    "takeaway": "Der Mond leuchtet nicht selbst. Die Sonne strahlt ihn an.",
+    "followUp": "Wie sieht der Mond heute Abend aus?",
+    "sources": [
+      { "title": "Mond – Klexikon", "url": "https://klexikon.zum.de/wiki/Mond", "publisher": "Klexikon", "checkedAt": "2026-10-31" }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    { "claim": "Der Mond leuchtet nicht selbst, die Sonne strahlt ihn an.", "url": "https://klexikon.zum.de/wiki/Mond", "quote": "Der Mond selber ist dunkel, er strahlt kein eigenes Licht aus, sondern man sieht ihn, weil die Sonne ihn anstrahlt." },
+    { "claim": "Bei Neumond ist der Mond dunkel, bei Vollmond hell.", "url": "https://klexikon.zum.de/wiki/Mond", "quote": "Bei Neumond ist er ganz dunkel, bei Vollmond ist er durch die Sonne hell erleuchtet." },
+    { "claim": "Auch der dunkle Teil ist erkennbar, weil Licht von der Erde reflektiert wird.", "url": "https://klexikon.zum.de/wiki/Mond", "quote": "Man kann auch vom dunklen Teil des Mondes viel erkennen, weil das Sonnenlicht von der Erde zum Mond reflektiert wird." },
+    { "claim": "Man spricht von zunehmendem und abnehmendem Mond.", "url": "https://klexikon.zum.de/wiki/Mond", "quote": "Deshalb spricht man vom abnehmenden und vom zunehmenden Mond." }
+  ]
+}
