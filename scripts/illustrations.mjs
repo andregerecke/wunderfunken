@@ -240,5 +240,29 @@ out["warum-es-geld-gibt"] = rect(0, 0, 1200, 800, "#F6EDCF") + circ(600, 430, 23
   figure(960, 690, { shirt: C.blue, skin: 2, hair: C.ink, armL: "M-34 -118 L-74 -96" }) + g("translate(830 640)", path("M-60 18 Q-62 -22 -44 -26 Q-26 -28 -24 -14 Q-4 -4 28 0 Q56 4 56 20Z", C.coral)) +
   coin(394, 300) + coin(806, 300) + coin(600, 650) + arrow(330, 390, 370, 340, C.ink, 6) + arrow(780, 320, 830, 400, C.ink, 6) + arrow(690, 640, 640, 648, C.ink, 6);
 
+const crate = (x, y, w, h) => rect(x, y, w, h, C.wood, 8) + line(`M${x} ${y} L${x + w} ${y + h} M${x + w} ${y} L${x} ${y + h}`, C.wood2, 7) + rect(x, y, w, h, "none", 8, `stroke="${C.wood2}" stroke-width="7"`);
+const wheel = (x, y) => circ(x, y, 42, C.ink) + circ(x, y, 18, C.cream);
+out["warum-raeder-rollen"] = scene("#E2ECF2", C.earth, 590) + cloud(220, 120, .8) + cloud(960, 140, .8) + rect(597, 180, 6, 500, C.ink, 3, 'opacity=".25"') +
+  crate(250, 480, 190, 150) + kid(150, 640, { mood: "worry", armR: "M34 -118 L100 -112", s: .95 }) +
+  line("M240 650 h-30 M300 650 h-40 M380 650 h-40", C.red, 7) +
+  rect(780, 560, 290, 28, C.coral, 10) + crate(830, 410, 190, 150) + wheel(840, 610) + wheel(1010, 610) +
+  line("M780 575 L705 520", C.ink, 7) + kid(690, 640, { long: true, skin: 2, hair: C.ink, shirt: C.yellow, armR: "M34 -118 L18 -116", s: .95 }) + arrow(600 + 30, 720, 780, 720, C.green, 8);
+
+const cup = (x, y) => path(`M${x} ${y} H${x + 170} L${x + 148} ${y + 190} H${x + 22}Z`, C.cream, `stroke="${C.wood2}" stroke-width="6"`) + text(x + 85, y + 120, "10", 86, C.green);
+const button = (x, y) => circ(x, y, 26, C.coral) + circ(x - 7, y, 4, C.cream) + circ(x + 7, y, 4, C.cream);
+const palm = (x, flip) => g(`translate(${x} 170) scale(${flip} 1)`, rect(-60, -10, 120, 110, SKINS[0], 34) + [-52, -26, 0, 26].map((d) => rect(d - 10, -86, 21, 96, SKINS[0], 10)).join("") + line("M50 60 L100 8", SKINS[0], 24));
+out["warum-wir-in-zehnern-zaehlen"] = rect(0, 0, 1200, 800, "#E1EBF6") + rect(0, 560, 1200, 240, C.wood) + rect(0, 560, 1200, 16, C.wood2) +
+  palm(470, 1) + palm(730, -1) + cup(70, 400) + cup(280, 400) + cup(490, 400) +
+  [[760, 500], [840, 500], [920, 500], [1000, 500], [800, 570], [880, 570], [960, 570]].map(([x, y]) => button(x, y)).join("");
+
+const speck = (x, y) => circ(x, y, 7, C.earth3);
+const drop = (x, y) => path(`M${x} ${y - 20} Q${x + 16} ${y + 2} ${x} ${y + 14} Q${x - 16} ${y + 2} ${x} ${y - 20}Z`, C.water);
+out["warum-du-blinzelst"] = rect(0, 0, 1200, 800, "#F9E5E0") + ell(600, 420, 390, 220, C.white) +
+  circ(600, 430, 150, C.blue) + circ(600, 430, 76, C.ink) + circ(640, 390, 26, C.white) +
+  path("M210 420 Q600 90 990 420 Q600 250 210 420Z", SKINS[0]) + line("M210 420 Q600 250 990 420", C.earth3, 10) +
+  [[300, 300], [430, 250], [560, 232], [700, 236], [830, 262], [930, 320]].map(([x, y], i) => line(`M${x} ${y} l${(i - 2.5) * 12} -46`, C.earth3, 8)).join("") +
+  arrow(1050, 240, 1050, 470, C.coral, 9) + drop(330, 480) + drop(460, 590) + drop(770, 590) + drop(880, 480) +
+  speck(260, 640) + speck(310, 690) + speck(220, 700) + arrow(380, 680, 300, 700, C.ink, 5);
+
 for (const [slug, body] of Object.entries(out)) writeFileSync(new URL(`../public/illustrations/${slug}.svg`, import.meta.url), svg(slug, body));
 console.log(Object.keys(out).length, "Illustrationen");

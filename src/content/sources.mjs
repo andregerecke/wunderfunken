@@ -24,4 +24,7 @@ export const SOURCES = {
   "die-wippe-und-der-hebel": [{ title: "Hebel (Physik)", url: "https://de.wikipedia.org/wiki/Hebel_(Physik)", publisher: "Wikipedia", evidence: ["Hebelgesetz", "Archimedes"] }],
   "mut-und-angst": [{ title: "Lampenfieber", url: "https://de.wikipedia.org/wiki/Lampenfieber", publisher: "Wikipedia", evidence: ["Lampenfieber"] }],
   "warum-es-geld-gibt": [{ title: "Kaurischnecken", url: "https://de.wikipedia.org/wiki/Kaurischnecken", publisher: "Wikipedia", evidence: ["Zahlungsmittel"] }, { title: "Tauschhandel", url: "https://de.wikipedia.org/wiki/Tauschhandel", publisher: "Wikipedia", evidence: ["Tausch"] }],
+  "warum-raeder-rollen": [{ title: "Rad", url: "https://de.wikipedia.org/wiki/Rad", publisher: "Wikipedia", evidence: ["Reibung", "Bronocice"] }],
+  "warum-wir-in-zehnern-zaehlen": [{ title: "Dezimalsystem", url: "https://de.wikipedia.org/wiki/Dezimalsystem", publisher: "Wikipedia", evidence: ["Finger"] }, { title: "Sexagesimalsystem", url: "https://de.wikipedia.org/wiki/Sexagesimalsystem", publisher: "Wikipedia", evidence: ["Minuten", "Babylon"] }],
+  "warum-du-blinzelst": [{ title: "Lidschlag", url: "https://de.wikipedia.org/wiki/Lidschlag", publisher: "Wikipedia", evidence: ["Tränenfilm", "Pro Minute"] }],
 };
