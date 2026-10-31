@@ -6,8 +6,8 @@ import { CardGrid } from "@/components/PostCardView";
 import { ReadAloud } from "@/components/ReadAloud";
 import { Surprise } from "@/components/Surprise";
 import { WorldChip } from "@/components/WorldChip";
-import { spokenParts } from "@/domain/post";
 import { FORMATS, WORLDS, WORLD_KEYS } from "@/domain/worlds";
+import { audioFile } from "@/lib/audio";
 import { allCards, allPosts, loadIssues } from "@/lib/content";
 import { asset } from "@/lib/site";
 
@@ -31,7 +31,7 @@ export default function Home() {
             <p className="lead">{post.teaser}</p>
             <div className="actions">
               <Link href={`/wissen/${post.slug}`} className="btn">Jetzt entdecken</Link>
-              <ReadAloud parts={spokenParts(post)} />
+              <ReadAloud src={asset(`/audio/${audioFile(post)}`)} />
               <SaveButton slug={post.slug} title={post.title} />
             </div>
           </div>

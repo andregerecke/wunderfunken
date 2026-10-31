@@ -12,7 +12,7 @@ export default function ForGrownUps() {
       </section>
       <section className="panel">
         <h2>Vorlesen</h2>
-        <p>Die Vorlesefunktion nutzt die Stimmen eures Geräts. Sie liest nur die Passagen fürs Kind, nie die Lösung oder die Quellen. Pause beginnt den aktuellen Abschnitt beim Fortsetzen neu. Auf dem iPhone muss der Stummschalter aus sein, sonst bleibt es oft still. Stimmen unterscheiden sich je nach Gerät, und nicht jede funktioniert offline.</p>
+        <p>Die Vorlesefunktion spielt eine fertige Aufnahme ab, gesprochen von der Computerstimme Thorsten. Sie liest nur die Passagen fürs Kind, nie die Lösung oder die Quellen. Die Stimme klingt auf jedem Gerät gleich und braucht eine Internetverbindung.</p>
       </section>
       <section className="panel">
         <h2>Merken und entdeckt</h2>

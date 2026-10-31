@@ -9,6 +9,7 @@ Stand und Wiederaufnahme: `docs/STATUS.md`. Täglicher Lauf: `docs/TAGESAUSGABE.
 - Öffnen ist nicht „entdeckt“. Nur ausdrückliche Bestätigung; zurücknehmbar. Wiederholung nur aus bestätigten Themen.
 - Freigabe kurz nach 07:00 `Europe/Berlin`. Alte Ausgabe behält ihr echtes Datum. Kein altes Bild unter neuem Datum.
 - Die Seite ist fest gebaut und öffentlich: keine Geheimnisse, keine persönlichen Daten im Repository. Merkliste und „entdeckt“ bleiben auf dem Gerät.
+- Vorlesen spielt fertige Aufnahmen der Stimme Thorsten. Kein Rückfall auf die Gerätestimme, sie kann dem Kind Angst machen.
 - Der tägliche Lauf veröffentlicht nur, was `scripts/check-content.mts` besteht. Er ändert nur Ausgabe und Bild (`.github/workflows/freigabe.yml`).
 - Technische Fehler nie in der Kinderansicht. Alle Texte natürliches Deutsch.
 - Sicherheit: keine Hitze, Netzstrom, Atemanhalten, gefährliche Stoffe, Knopfzellen, kleine starke Magnete, Klettern, riskantes Essen/Sammeln.

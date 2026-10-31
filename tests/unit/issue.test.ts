@@ -3,6 +3,7 @@ import { SEED_POSTS } from "@/content/seed";
 import { filterCards } from "@/domain/archive";
 import { issueViolations, quoteFound, svgViolations, type Issue } from "@/domain/issue";
 import { searchableText, toCard, type Post } from "@/domain/post";
+import { audioFile, spokenText } from "@/lib/audio";
 
 const base = SEED_POSTS[0]!;
 const URL_A = "https://de.wikipedia.org/wiki/Regenbogen";
@@ -69,6 +70,18 @@ describe("Belege", () => {
   it("findet wörtliche Zitate trotz Auszeichnung", () => expect(quoteFound(html, "Licht wird im Regentropfen gebrochen")).toBe(true));
   it("findet erfundene Zitate nicht", () => expect(quoteFound(html, "Licht wird im Regentropfen gefärbt")).toBe(false));
   it("zählt keinen Skripttext", () => expect(quoteFound(html, "Geheimnis im Skript")).toBe(false));
+});
+
+describe("Aufnahmen", () => {
+  it("bekommen bei geändertem Text einen neuen Namen", () => {
+    expect(audioFile({ ...base, wow: "Ein ganz neuer Wow-Fakt für diesen Test." })).not.toBe(audioFile(base));
+  });
+  it("sprechen weder Lösung noch Quellen", () => {
+    const text = spokenText(base);
+    expect(text).not.toContain(base.check.answer);
+    expect(text).not.toContain(base.sources[0]!.url);
+    expect(text.startsWith(`${base.title}`)).toBe(true);
+  });
 });
 
 describe("Archivfilter", () => {

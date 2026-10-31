@@ -2,19 +2,12 @@ import { expect, test, type Page } from "@playwright/test";
 
 const FIXED = "warum-blaetter-bunt-werden";
 
-async function stubSpeech(page: Page) {
+async function stubAudio(page: Page) {
   await page.addInitScript(() => {
     const log: string[] = [];
-    let cancels = 0;
-    (window as unknown as { __speech: () => object }).__speech = () => ({ log, cancels });
-    class U { text; lang = ""; rate = 1; voice = null; onend: (() => void) | null = null; onerror = null; constructor(t: string) { this.text = t; } }
-    (window as unknown as { SpeechSynthesisUtterance: unknown }).SpeechSynthesisUtterance = U;
-    Object.defineProperty(window, "speechSynthesis", {
-      value: {
-        getVoices: () => [], cancel: () => { cancels++; },
-        speak: (u: U) => { log.push(u.text); const id = setTimeout(() => u.onend?.(), 30); void id; },
-      },
-    });
+    (window as unknown as { __audio: string[] }).__audio = log;
+    HTMLMediaElement.prototype.play = function () { log.push(`play ${this.src}`); this.dispatchEvent(new Event("play")); return Promise.resolve(); };
+    HTMLMediaElement.prototype.pause = function () { log.push("pause"); };
   });
 }
 
@@ -102,28 +95,28 @@ test("Öffnen zählt nicht, Bestätigen und Zurücknehmen schon", async ({ page 
   await expect(page.locator(".history li")).toHaveCount(0);
 });
 
-test("Vorlesen startet nur bewusst, stoppt beim Wechsel und lässt die Lösung aus", async ({ page }) => {
-  await stubSpeech(page);
+test("Vorlesen startet nur bewusst, lässt sich pausieren und stoppt beim Wechsel", async ({ page }) => {
+  await stubAudio(page);
   await page.goto(`/wissen/${FIXED}`);
-  const speech = () => page.evaluate(() => (window as unknown as { __speech: () => { log: string[]; cancels: number } }).__speech());
-  expect((await speech()).log).toHaveLength(0);
-  await page.locator(".actionbar").getByRole("button", { name: "Vorlesen" }).click();
-  await expect.poll(async () => (await speech()).log.length).toBeGreaterThan(3);
-  const before = await speech();
-  await page.locator(".actionbar").getByRole("button", { name: "Pause" }).click();
-  await page.locator(".actionbar").getByRole("button", { name: "Stopp" }).click();
-  await page.locator(".actionbar").getByRole("button", { name: "Vorlesen" }).click();
+  const log = () => page.evaluate(() => (window as unknown as { __audio: string[] }).__audio);
+  expect(await log()).toHaveLength(0);
+  const bar = page.locator(".actionbar");
+  await bar.getByRole("button", { name: "Vorlesen" }).click();
+  expect((await log())[0]).toMatch(/\/audio\/warum-blaetter-bunt-werden-[0-9a-f]{10}\.mp3$/);
+  await bar.getByRole("button", { name: "Pause" }).click();
+  await bar.getByRole("button", { name: "Weiter" }).click();
+  await bar.getByRole("button", { name: "Stopp" }).click();
+  await bar.getByRole("button", { name: "Vorlesen" }).click();
+  const before = (await log()).filter((l) => l === "pause").length;
   await page.locator("a.back").click();
   await expect(page).toHaveURL(/\/$/);
-  const after = await speech();
-  expect(after.cancels).toBeGreaterThan(before.cancels);
-  const count = after.log.length;
-  await page.waitForTimeout(150);
-  expect((await speech()).log.length).toBe(count);
-  const spoken = after.log.join(" ");
-  expect(spoken).not.toContain("Weil das kräftige Blattgrün es überdeckt");
-  expect(spoken).not.toContain("Gesprächsimpuls");
-  expect(spoken).not.toContain("wikipedia");
+  expect((await log()).filter((l) => l === "pause").length).toBeGreaterThan(before);
+});
+
+test("Fehlt eine Aufnahme, gibt es einen Hinweis und keine Gerätestimme", async ({ page }) => {
+  await page.goto(`/wissen/${FIXED}`);
+  await page.locator(".actionbar").getByRole("button", { name: "Vorlesen" }).click();
+  await expect(page.getByText("Das Vorlesen klappt gerade nicht")).toBeVisible();
 });
 
 test("Kein Überlauf, kleine Ziele oder defekte Bilder", async ({ page }) => {

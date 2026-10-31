@@ -6,9 +6,9 @@ import { Illustration } from "@/components/Illustration";
 import { ReadAloud } from "@/components/ReadAloud";
 import { ReviewBlock } from "@/components/ReviewBlock";
 import { WorldChip } from "@/components/WorldChip";
-import { spokenParts } from "@/domain/post";
 import { formatGermanDate } from "@/domain/time";
 import { FORMATS } from "@/domain/worlds";
+import { audioFile } from "@/lib/audio";
 import { allPosts } from "@/lib/content";
 import { asset } from "@/lib/site";
 
@@ -93,7 +93,7 @@ export default async function PostPage({ params }: Props) {
         </details>
       </article>
       <div className="actionbar"><div className="actionbar-in">
-        <ReadAloud key={post.slug} parts={spokenParts(post)} />
+        <ReadAloud key={post.slug} src={asset(`/audio/${audioFile(post)}`)} />
         <SaveButton slug={post.slug} title={post.title} />
       </div></div>
     </>

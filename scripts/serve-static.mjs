@@ -5,7 +5,7 @@ import path from "node:path";
 
 const root = path.resolve("out");
 const port = Number(process.argv[2] ?? 3000);
-const TYPES = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".css": "text/css", ".svg": "image/svg+xml", ".png": "image/png", ".woff2": "font/woff2", ".webmanifest": "application/manifest+json", ".json": "application/json", ".txt": "text/plain" };
+const TYPES = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".css": "text/css", ".svg": "image/svg+xml", ".png": "image/png", ".woff2": "font/woff2", ".webmanifest": "application/manifest+json", ".json": "application/json", ".txt": "text/plain", ".mp3": "audio/mpeg" };
 
 createServer((req, res) => {
   const url = decodeURIComponent(new URL(req.url, "http://x").pathname);

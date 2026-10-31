@@ -23,6 +23,28 @@ jobs:
       - run: npm ci
       - run: npx tsx scripts/check-content.mts
       - run: npm test
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/cache@v4
+        with:
+          path: |
+            public/audio
+            .voice
+          key: audio-${{ github.run_id }}
+          restore-keys: audio-
+      - name: Aufnahmen erzeugen
+        run: |
+          mkdir -p .voice
+          npx tsx scripts/audio-todo.mts audio-todo.json
+          if [ "$(cat audio-todo.json)" != "[]" ]; then
+            sudo apt-get install -y -q ffmpeg
+            pip install -q piper-tts==1.8.0
+            B=https://huggingface.co/rhasspy/piper-voices/resolve/main/de/de_DE/thorsten/high/de_DE-thorsten-high.onnx
+            [ -f .voice/t.onnx ] || curl -fsSL -o .voice/t.onnx "$B"
+            [ -f .voice/t.onnx.json ] || curl -fsSL -o .voice/t.onnx.json "$B.json"
+            python scripts/speak.py audio-todo.json .voice/t.onnx
+          fi
       - run: npm run build
         env:
           NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
