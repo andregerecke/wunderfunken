@@ -1,0 +1,81 @@
+{
+  "issueDate": "2026-10-30",
+  "post": {
+    "id": "issue-2026-10-30",
+    "slug": "beispiel-ausgabe",
+    "title": "Eine Beispielausgabe",
+    "teaser": "Diese Ausgabe gibt es nur in den Browsertests.",
+    "concept": "Beispielkonzept",
+    "world": "sprache",
+    "topics": [
+      "Beispiel"
+    ],
+    "stem": {
+      "isStem": false,
+      "reason": "Sprachbetrachtung: Es geht um den Aufbau deutscher Wörter."
+    },
+    "format": "loesung",
+    "minutes": 5,
+    "question": "Ein Handschuh ist kein Schuh für den Fuß. Warum heißt er dann trotzdem so?",
+    "explanation": [
+      "Im Deutschen können wir Wörter wie Waggons aneinanderhängen. Aus Haus und Tür wird die Haustür. Aus Tür und Haus wird dagegen das Türhaus. Das klingt komisch, und es wäre etwas ganz anderes!",
+      "Das liegt an einer Regel: Das letzte Wort sagt, was es ist. Die Haustür ist eine Tür. Der Apfelbaum ist ein Baum. Das Wort davor erzählt nur, welche Sorte gemeint ist.",
+      "Der Handschuh ist eine Art Schuh für die Hand: Er zieht sich über die Hand wie ein Schuh über den Fuß. Sprache ist manchmal ein bisschen wie ein altes Bild."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/das-letzte-wort-entscheidet.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein kleiner Zug mit zwei Waggons: Der vordere trägt eine Hand, der hintere einen Schuh und eine Krone.",
+      "origin": "Eigens für Wunderfunken gezeichnete SVG-Illustration (keine KI, keine Fremdbilder)",
+      "title": "Der Wörter-Zug",
+      "description": "Ein kleiner Zug fährt über die Schienen. Jeder Waggon ist ein Wort. Der letzte Waggon ist besonders groß, denn er sagt, was das Ganze ist.",
+      "lookCloser": "Schau mal genau hin: Welcher Waggon trägt die Krone, und was wäre ein Schuhhand, wenn man die Waggons vertauscht?"
+    },
+    "wow": "Deutsche Wörter können fast beliebig lang werden. Es gab sogar die Donaudampfschifffahrtsgesellschaft, und in diesem Riesenwort steckt auch noch das Wort Fahrt.",
+    "activity": {
+      "title": "Unsinnswörter bauen",
+      "materials": [
+        "Papier",
+        "Stift"
+      ],
+      "steps": [
+        "Schreibt oder malt zehn einfache Dinge auf kleine Zettel.",
+        "Zieht zwei Zettel und klebt sie zu einem neuen Wort zusammen, zum Beispiel Löffelhund.",
+        "Überlegt: Was ist das? Ein Löffelhund ist ein Hund, kein Löffel!",
+        "Vertauscht die Zettel und malt beide Erfindungen."
+      ]
+    },
+    "check": {
+      "question": "Was ist ein Blumentopf: eine Blume oder ein Topf?",
+      "answer": "Ein Topf, denn das letzte Wort entscheidet. Eine Topfblume wäre dagegen eine Blume.",
+      "parentPrompt": "Sucht beim Abendessen weitere Wörter: Ist die Suppenschüssel eine Suppe? Ist die Schüsselsuppe etwas anderes?"
+    },
+    "takeaway": "Bei zusammengesetzten Wörtern sagt das letzte Wort, was es ist.",
+    "followUp": "Welches zusammengesetzte Wort entdeckst du heute auf dem Frühstückstisch?",
+    "sources": [
+      {
+        "title": "Determinativkompositum",
+        "url": "https://de.wikipedia.org/wiki/Determinativkompositum",
+        "publisher": "Wikipedia",
+        "checkedAt": "2026-10-30"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Ein erster Beispielbeleg.",
+      "url": "https://de.wikipedia.org/wiki/Determinativkompositum",
+      "quote": "Ein Beispielzitat hier"
+    },
+    {
+      "claim": "Ein zweiter Beispielbeleg.",
+      "url": "https://de.wikipedia.org/wiki/Determinativkompositum",
+      "quote": "Noch ein Beispielzitat"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.tools/
+.env
+.env.local
+.env.*.local
+next-env.d.ts
+*.tsbuildinfo
+test-results/
+playwright-report/
+.DS_Store
+out/
+video/
+docs/BRIEFING.md

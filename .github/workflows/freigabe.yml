@@ -1,0 +1,30 @@
+# Der tägliche Lauf liefert auf einen Zweig. Nur was alle Prüfungen besteht, kommt nach main.
+name: Freigabe
+on:
+  push:
+    branches: ["claude/**"]
+permissions:
+  contents: write
+  actions: write
+jobs:
+  freigabe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - name: Nur Inhalte geändert?
+        run: |
+          fremd=$(git diff --name-only origin/main...HEAD | grep -vE '^(content/issues/[0-9]{4}-[0-9]{2}-[0-9]{2}\.json|public/illustrations/[a-z0-9-]+\.svg)$' || true)
+          if [ -n "$fremd" ]; then echo "Nicht erlaubt: $fremd"; exit 1; fi
+      - run: npm ci
+      - run: npx tsx scripts/check-content.mts --net
+      - run: git push origin HEAD:main
+      - run: gh workflow run veroeffentlichen.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
