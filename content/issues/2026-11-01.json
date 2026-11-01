@@ -1,0 +1,62 @@
+{
+  "issueDate": "2026-11-01",
+  "post": {
+    "id": "issue-2026-11-01",
+    "slug": "auf-der-leitung-stehen",
+    "title": "Steht jemand wirklich auf der Leitung?",
+    "teaser": "Manche Sätze sagen etwas ganz anderes, als die Wörter zeigen.",
+    "concept": "Eine Redewendung meint etwas anderes als ihre einzelnen Wörter",
+    "world": "sprache",
+    "topics": ["Redewendungen", "Bildersprache", "Wörter", "Bedeutung"],
+    "stem": { "isStem": false, "reason": "Sprachbetrachtung: Es geht um die Bedeutung fester Ausdrücke." },
+    "format": "probieren",
+    "minutes": 6,
+    "question": "Was glaubst du: Wer „auf der Leitung steht“, steht der wirklich auf einem Kabel?",
+    "explanation": [
+      "Manche Sätze hören wir immer wieder. Wir sagen sie genau so, und alle wissen, was gemeint ist. Das nennt man eine Redewendung.",
+      "Die Wörter allein ergeben oft ein lustiges Bild. Wer auf der Leitung steht, steht nicht auf einem Kabel. Er versteht etwas nicht sofort.",
+      "Auch „etwas durch die Blume sagen“ hat nichts mit Blumen zu tun. Man sagt eine heikle Sache nicht ganz genau. Der andere versteht sie trotzdem.",
+      "Wir müssen also nicht jedes Wort einzeln nehmen. Das ganze Stück zusammen hat eine eigene Bedeutung."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/auf-der-leitung-stehen.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Zwei Zeilen mit Bildern. Oben steht ein Kind auf einem Kabel, daneben ein Kind mit Fragezeichen. Unten eine Blume, daneben eine Sprechblase mit Herz.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Das Bild und die Bedeutung",
+      "description": "Oben steht ein Kind auf einem Kabel, daneben denkt ein Kind nach und versteht noch nichts. Unten liegt eine Blume, daneben sagt eine Sprechblase mit Herz etwas Freundliches.",
+      "lookCloser": "Schau mal genau hin: Was passiert in jeder Zeile links, und was ist rechts gemeint?"
+    },
+    "wow": "Jede Sprache hat ihre eigenen Redewendungen. Man kann sie fast nie Wort für Wort in eine andere Sprache übersetzen.",
+    "activity": {
+      "title": "Wörtlich gemalt",
+      "materials": ["Papier", "Buntstifte"],
+      "steps": [
+        "Überlegt euch eine Redewendung, zum Beispiel „auf der Leitung stehen“.",
+        "Malt zuerst das wörtliche Bild dazu, so lustig ihr wollt.",
+        "Malt daneben, was wirklich gemeint ist.",
+        "Zeigt beide Bilder und lasst die anderen raten, welche Redewendung es ist."
+      ]
+    },
+    "check": {
+      "question": "Was meint jemand, der sagt: Ich stehe auf der Leitung?",
+      "answer": "Er versteht etwas gerade nicht. Mit einem Kabel hat das nichts zu tun.",
+      "parentPrompt": "Sammelt zusammen weitere Redewendungen aus dem Alltag, etwa „Daumen drücken“. Was ist das wörtliche Bild, und was ist gemeint?"
+    },
+    "takeaway": "Eine Redewendung meint oft etwas anderes, als die Wörter zeigen.",
+    "followUp": "Welche Redewendung hörst du heute zu Hause?",
+    "sources": [
+      { "title": "Redewendung – Klexikon", "url": "https://klexikon.zum.de/wiki/Redewendung", "publisher": "Klexikon", "checkedAt": "2026-11-01" }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    { "claim": "Eine Redewendung hört man immer wieder, und sie gehört zur Sprache.", "url": "https://klexikon.zum.de/wiki/Redewendung", "quote": "Eine Redewendung ist etwas, das man immer wieder hört und das so zur Sprache gehört." },
+    { "claim": "Auf der Leitung stehen heißt, etwas nicht zu verstehen.", "url": "https://klexikon.zum.de/wiki/Redewendung", "quote": "Da versteht einer etwas nicht." },
+    { "claim": "Etwas durch die Blume sagen heißt, etwas nicht genau zu benennen.", "url": "https://klexikon.zum.de/wiki/Redewendung", "quote": "Man benennt etwas nicht genau." }
+  ]
+}
