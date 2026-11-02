@@ -1,0 +1,95 @@
+{
+  "issueDate": "2026-11-02",
+  "post": {
+    "id": "issue-2026-11-02",
+    "slug": "der-geteilte-mantel",
+    "title": "Warum teilt Sankt Martin seinen Mantel?",
+    "teaser": "Ein halber Mantel wärmt zwei Menschen ein bisschen. Davon erzählt eine alte Geschichte.",
+    "concept": "Teilen heißt, etwas abzugeben, damit auch ein anderer genug hat",
+    "world": "kulturen",
+    "topics": [
+      "Sankt Martin",
+      "Teilen",
+      "Martinstag",
+      "Laternenumzug"
+    ],
+    "stem": {
+      "isStem": false,
+      "reason": "Kulturthema: Es geht um eine Legende, einen Brauch und das Teilen."
+    },
+    "format": "warum",
+    "minutes": 6,
+    "question": "Was glaubst du: Warum zerschneidet jemand seinen warmen Mantel, anstatt ihn ganz zu behalten?",
+    "explanation": [
+      "Am 11. November denken viele Familien an Martin von Tours. Er war ein römischer Soldat. Von ihm erzählt man eine alte Geschichte.",
+      "An einem kalten Wintertag sah Martin einen Bettler. Der Mann fror sehr. Martin gab ihm eine Hälfte seines Mantels, damit er nicht erfror.",
+      "Er hat den Mantel nicht ganz verschenkt. Eine Hälfte blieb bei ihm. So hatten beide etwas Wärme.",
+      "Das ist Teilen: Wer etwas hat, gibt ein Stück ab. Viele Kinder gehen deshalb im November mit Laternen durch die Straßen."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/der-geteilte-mantel.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein Mann in rotem Mantel gibt einem frierenden Kind in grauem Umhang die eine Hälfte seines zerteilten Mantels. Schneeflocken fallen, links hängt eine Laterne.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Ein Mantel für zwei",
+      "description": "Ein Mann steht im Schnee. Er hat seinen roten Mantel in zwei gleich große Hälften geteilt. Eine Hälfte trägt er selbst, die andere legt er einem frierenden Kind um die Schultern.",
+      "lookCloser": "Schau mal genau hin: Wie viele Hälften des roten Mantels siehst du, und wer trägt welche?"
+    },
+    "wow": "Wegen dieser Geschichte tragen Kinder am Martinstag Laternen durch die Straßen. Oft reitet jemand als Soldat auf einem Pferd voran.",
+    "activity": {
+      "title": "Ein Stück abgeben",
+      "materials": [
+        "ein Stück Papier oder Stoff",
+        "eine Schere mit runden Spitzen"
+      ],
+      "steps": [
+        "Nehmt ein Blatt Papier. Das ist euer Mantel.",
+        "Schneidet es gemeinsam in zwei möglichst gleiche Hälften.",
+        "Legt die Hälften nebeneinander. Sind sie gleich groß?",
+        "Überlegt zusammen: Was könntet ihr heute mit jemandem teilen?"
+      ]
+    },
+    "check": {
+      "question": "Was hat Martin mit seinem Mantel gemacht?",
+      "answer": "Er hat ihn in zwei Hälften geteilt und eine davon dem frierenden Mann gegeben.",
+      "parentPrompt": "Sprecht darüber, was ihr gern teilt und was schwerer fällt. Es ist eine Legende: Man erzählt sie sich, weil sie zeigt, wie Teilen helfen kann."
+    },
+    "takeaway": "Wer teilt, gibt ein Stück ab, damit auch ein anderer etwas hat.",
+    "followUp": "Was könntest du heute mit jemandem teilen?",
+    "sources": [
+      {
+        "title": "Martin von Tours – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Martin_von_Tours",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-02"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Martin von Tours war ein römischer Soldat.",
+      "url": "https://klexikon.zum.de/wiki/Martin_von_Tours",
+      "quote": "Martin von Tours, auch bekannt als Sankt Martin oder der heilige Martin, war ein römischer Soldat."
+    },
+    {
+      "claim": "Martin gab dem Armen eine Hälfte seines Mantels.",
+      "url": "https://klexikon.zum.de/wiki/Martin_von_Tours",
+      "quote": "Martin gab dem Armen eine Mantelhälfte, damit er nicht erfrieren musste."
+    },
+    {
+      "claim": "Der Gedenktag ist am 11. November.",
+      "url": "https://klexikon.zum.de/wiki/Martin_von_Tours",
+      "quote": "Der Gedenktag des Martin von Tours ist am 11. November."
+    },
+    {
+      "claim": "Zum Martinstag gibt es Laternen-Umzüge.",
+      "url": "https://klexikon.zum.de/wiki/Martin_von_Tours",
+      "quote": "Vor allem Katholiken feiern am Martinstag den Heiligen mit einem Laternen-Umzug"
+    }
+  ]
+}
