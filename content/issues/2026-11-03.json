@@ -1,0 +1,88 @@
+{
+  "issueDate": "2026-11-03",
+  "post": {
+    "id": "issue-2026-11-03",
+    "slug": "woerter-auf-reisen",
+    "title": "Können Wörter auf Reisen gehen?",
+    "teaser": "Manche Wörter kommen aus fernen Sprachen. Unterwegs besuchen sie oft mehrere Länder.",
+    "concept": "Manche Wörter wandern von Sprache zu Sprache und kommen oft über Umwege zu uns",
+    "world": "sprache",
+    "topics": ["Wörter", "Lehnwörter", "Sprache", "Herkunft"],
+    "stem": {
+      "isStem": false,
+      "reason": "Sprachbetrachtung: Es geht um die Herkunft und Wanderung von Wörtern."
+    },
+    "format": "probieren",
+    "minutes": 6,
+    "question": "Was glaubst du: Können Wörter eigentlich von einem Land in ein anderes reisen?",
+    "explanation": [
+      "Wörter bleiben nicht immer zu Hause. Manchmal übernehmen wir ein Wort aus einer anderen Sprache. Dann nennt man es ein Lehnwort. Es ist ausgeliehen und bleibt doch bei uns.",
+      "Oft kommt so ein Wort nicht auf direktem Weg. Es wandert durch mehrere Sprachen, wie ein Brief, der über viele Stationen geht.",
+      "Das Wort Pistazie ist so ein Reisender. Es kam über das Griechische und das Lateinische zum Italienischen. Von dort gelangte es zu uns ins Deutsche.",
+      "So verändert sich Sprache langsam, weil Menschen Wörter miteinander tauschen."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/woerter-auf-reisen.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein gewundener Weg verbindet vier Stationen mit Fähnchen in vier Farben. Auf dem Weg wandert ein kleiner Brief von links nach rechts zu einem Haus.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Die Reise eines Wortes",
+      "description": "Ein Weg schlängelt sich über vier Stationen von links nach rechts. Jede Station hat ein Fähnchen in einer anderen Farbe. Am Ende steht ein Haus, dort kommt das Wort bei uns an.",
+      "lookCloser": "Schau mal genau hin: Wie viele Stationen mit Fähnchen zählst du, bevor der Brief beim Haus ankommt?"
+    },
+    "wow": "Viele Wörter sind über den Umweg mehrerer anderer Sprachen ins Deutsche gelangt. Sie haben auf dem Weg oft Besuch in mehreren Ländern gemacht.",
+    "activity": {
+      "title": "Die Reise von Pistazie",
+      "materials": ["ein Blatt Papier", "Stifte in vier Farben"],
+      "steps": [
+        "Malt auf das Papier einen langen, gewundenen Weg.",
+        "Zeichnet vier Stationen auf den Weg und malt jede in einer anderen Farbe.",
+        "Nennt die Stationen: Griechisch, Latein, Italienisch und am Ende Deutsch.",
+        "Malt ganz am Ende ein Haus und schreibt das Wort Pistazie daneben.",
+        "Erzählt euch, wie das Wort von Haus zu Haus gewandert ist."
+      ]
+    },
+    "check": {
+      "question": "Was ist ein Lehnwort?",
+      "answer": "Ein Wort, das wir aus einer anderen Sprache übernommen haben. Oft hat es unterwegs mehrere Sprachen besucht.",
+      "parentPrompt": "Fragt gemeinsam: Welche Wörter aus anderen Sprachen kennen wir? Es muss nicht jede Herkunft stimmen, es zählt die Neugier."
+    },
+    "takeaway": "Wörter können wandern und kommen oft über mehrere Sprachen zu uns.",
+    "followUp": "Welches Wort aus einer anderen Sprache kennst du schon?",
+    "sources": [
+      {
+        "title": "Lehnwort – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Lehnwort",
+        "publisher": "Wikipedia",
+        "checkedAt": "2026-11-03"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Ein Lehnwort ist ein Wort, das aus einer anderen Sprache übernommen wurde.",
+      "url": "https://de.wikipedia.org/wiki/Lehnwort",
+      "quote": "Ein Lehnwort ist ein Wort, das aus einer Sprache"
+    },
+    {
+      "claim": "Das Wort Pistazie kam über Griechisch, Latein und Italienisch ins Deutsche.",
+      "url": "https://de.wikipedia.org/wiki/Lehnwort",
+      "quote": "die durch Vermittlung des Griechischen, des Lateinischen und schließlich des Italienischen ins Deutsche gelangt ist."
+    },
+    {
+      "claim": "Viele Wörter kamen über mehrere andere Sprachen ins Deutsche.",
+      "url": "https://de.wikipedia.org/wiki/Lehnwort",
+      "quote": "Viele Wörter sind über den Umweg mehrerer anderer Sprachen in die deutsche Sprache gelangt."
+    },
+    {
+      "claim": "Entlehnung ist ein wichtiger Faktor im Sprachwandel.",
+      "url": "https://de.wikipedia.org/wiki/Lehnwort",
+      "quote": "Die Entlehnung stellt einen wichtigen Faktor im Sprachwandel dar"
+    }
+  ]
+}
