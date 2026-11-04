@@ -1,0 +1,91 @@
+{
+  "issueDate": "2026-11-04",
+  "post": {
+    "id": "issue-2026-11-04",
+    "slug": "der-igel-schlaeft-den-winter",
+    "title": "Wie schläft ein Igel den ganzen Winter?",
+    "teaser": "Im Winter gibt es kaum Futter. Darum spart der Igel Kraft und schläft monatelang.",
+    "concept": "Winterschläfer sparen Energie: Körper und Herz werden langsam, und ein Fettvorrat aus dem Herbst reicht durch den Winter",
+    "world": "natur",
+    "topics": ["Igel", "Winterschlaf", "Winter", "Tiere"],
+    "stem": {
+      "isStem": true,
+      "reason": "Das Konzept ist biologisch: Energiesparen und Körperfunktionen bei Winterschläfern."
+    },
+    "format": "warum",
+    "minutes": 6,
+    "question": "Was glaubst du: Wie kann ein Igel viele Wochen schlafen, ohne etwas zu essen?",
+    "explanation": [
+      "Im Winter ist es kalt, und es gibt kaum Futter. Der Igel findet keine Käfer und Würmer mehr. Darum zieht er sich zurück und schläft.",
+      "Im Herbst frisst er sich einen dicken Fettvorrat an. Von diesem Vorrat lebt er im Winter, wie von einem vollen Rucksack mit Proviant.",
+      "Beim Schlafen wird der Igel innen ganz ruhig. Sein Körper wird kühler. Atmung und Herzschlag werden langsamer. So braucht er sehr wenig Energie, und der Vorrat reicht über Monate."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/der-igel-schlaeft-den-winter.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Links frisst ein Igel im Herbstlaub einen Pilz neben einem Käfer, rechts liegt ein zusammengerollter Igel unter einem Laubhaufen, über dem drei Schneeflocken fallen.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Vom Futtern zum Schlafen",
+      "description": "Links ist Herbst: Ein Igel frisst und wird rund. Rechts ist Winter: Ein Igel liegt zusammengerollt unter einem Laubhaufen, und drei Schneeflocken fallen.",
+      "lookCloser": "Schau mal genau hin: Wie viele Schneeflocken fallen auf den Laubhaufen, und welcher Igel sieht runder aus?"
+    },
+    "wow": "Ein schlafender Igel atmet nur noch selten, und sein Herz schlägt viel langsamer als sonst.",
+    "activity": {
+      "title": "Das Laubnest",
+      "materials": ["eine Handvoll trockene Blätter", "ein Blatt Papier", "Stifte"],
+      "steps": [
+        "Malt auf das Papier einen Igel, der zusammengerollt schläft.",
+        "Legt trockene Blätter wie eine Decke über euer Bild.",
+        "Flüstert: Pst, der Igel schläft! Wie leise könnt ihr sein?",
+        "Hebt die Blätter ab und weckt den Igel im Frühling auf."
+      ]
+    },
+    "check": {
+      "question": "Wovon lebt der Igel im Winter, wenn er schläft?",
+      "answer": "Von dem Fettvorrat, den er sich im Herbst angefressen hat. Im Schlaf verbraucht er nur wenig Energie.",
+      "parentPrompt": "Fragt gemeinsam: Welche anderen Tiere schlafen im Winter? Siebenschläfer, Murmeltiere und Fledermäuse tun das auch."
+    },
+    "takeaway": "Der Igel frisst sich Fett an und spart im Winterschlaf Energie.",
+    "followUp": "Welches Tier wünschst du dir im Winter zum Kuscheln, und warum?",
+    "sources": [
+      {
+        "title": "Winterschlaf – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Winterschlaf",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-04"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Im Winter ist es kalt und es gibt wenig Futter.",
+      "url": "https://klexikon.zum.de/wiki/Winterschlaf",
+      "quote": "Im Winter ist es draußen kalt und es gibt nur wenig Futter."
+    },
+    {
+      "claim": "Beim Winterschlaf sinkt die Körpertemperatur, Atmung und Herzschlag werden langsamer.",
+      "url": "https://klexikon.zum.de/wiki/Winterschlaf",
+      "quote": "Dabei sinkt die Körpertemperatur. Atmung und Herzschlag werden langsamer."
+    },
+    {
+      "claim": "Die Tiere verbrauchen so weniger Energie und schlafen Monate ohne zu fressen.",
+      "url": "https://klexikon.zum.de/wiki/Winterschlaf",
+      "quote": "So verbrauchen die Tiere weniger Energie und können über mehrere Monate schlafen ohne zu fressen."
+    },
+    {
+      "claim": "Sie leben von einem im Herbst angefressenen Fettvorrat.",
+      "url": "https://klexikon.zum.de/wiki/Winterschlaf",
+      "quote": "Meistens haben sie sich auch schon im Herbst einen Fettvorrat angefressen, von dem sie im Winter leben."
+    },
+    {
+      "claim": "Igel gehören zu den Winterschläfern.",
+      "url": "https://klexikon.zum.de/wiki/Winterschlaf",
+      "quote": "Winterschläfer sind zum Beispiel Igel, Siebenschläfer, Murmeltiere und Fledermäuse."
+    }
+  ]
+}
