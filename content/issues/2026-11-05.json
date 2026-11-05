@@ -1,0 +1,91 @@
+{
+  "issueDate": "2026-11-05",
+  "post": {
+    "id": "issue-2026-11-05",
+    "slug": "sprechen-mit-den-haenden",
+    "title": "Wie sprechen Menschen mit den Händen?",
+    "teaser": "Wer nicht hören kann, spricht oft mit Gebärden. Das ist eine richtige Sprache.",
+    "concept": "Gebärdensprachen sind echte Sprachen, in denen Hände, Gesicht und Körper zusammen etwas sagen",
+    "world": "sprache",
+    "topics": ["Gebärdensprache", "Sprache", "Verständigung", "Hände"],
+    "stem": {
+      "isStem": false,
+      "reason": "Das Konzept gehört zu Sprache und Miteinander, nicht zu Naturwissenschaft oder Technik."
+    },
+    "format": "probieren",
+    "minutes": 6,
+    "question": "Was glaubst du: Wie kann man sich etwas sagen, ohne einen Ton zu machen?",
+    "explanation": [
+      "Manche Menschen können nicht hören. Sie sprechen oft eine Gebärdensprache. Das ist eine richtige Sprache, nur ohne Töne.",
+      "Eine Gebärde ist eine Bewegung der Hände. Jede Gebärde hat eine feste Bedeutung. Aber nicht nur die Hände sprechen. Auch das Gesicht und der Körper zeigen, was gemeint ist.",
+      "Gehörlose Menschen verstehen sich damit genauso gut wie andere mit gesprochener Sprache. Es gibt auch nicht nur eine Gebärdensprache. In jedem Land ist sie meist anders."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/sprechen-mit-den-haenden.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Zwei Kinder stehen sich gegenüber und halten beide Hände vor sich hoch. Zwischen ihnen schweben drei Sterne übereinander.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Zwei Kinder, kein Ton",
+      "description": "Zwei Kinder stehen sich gegenüber. Beide haben die Hände erhoben und sprechen ohne Worte miteinander. Zwischen ihnen schweben drei Sterne.",
+      "lookCloser": "Schau mal genau hin: Welches Kind lächelt, welches staunt, und wie viele Sterne schweben in der Mitte?"
+    },
+    "wow": "Es gibt nicht nur eine Gebärdensprache auf der Welt, sondern viele verschiedene.",
+    "activity": {
+      "title": "Ohne Ton",
+      "materials": [],
+      "steps": [
+        "Setzt euch gegenüber hin und seid ganz still.",
+        "Zeigt mit den Händen und dem Gesicht: Ich freue mich.",
+        "Zeigt dann: Ich bin müde. Kann der andere es erraten?",
+        "Tauscht die Rollen. Überlegt euch eine eigene Handbewegung für Hallo."
+      ]
+    },
+    "check": {
+      "question": "Womit sprechen Menschen in einer Gebärdensprache?",
+      "answer": "Mit den Händen, aber auch mit dem Gesicht und dem Körper.",
+      "parentPrompt": "Fragt gemeinsam: Was konntet ihr ohne Worte gut zeigen, und was war schwer? Das war nur ein Spiel, echte Gebärden muss man lernen."
+    },
+    "takeaway": "Gebärdensprache ist eine echte Sprache mit Händen, Gesicht und Körper.",
+    "followUp": "Welche Gefühle kann man nur mit dem Gesicht zeigen?",
+    "sources": [
+      {
+        "title": "Gebärdensprache – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Gebärdensprache",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-05"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Gebärdensprachen sind die Sprachen von Menschen, die nicht hören können.",
+      "url": "https://klexikon.zum.de/wiki/Gebärdensprache",
+      "quote": "Gebärdensprachen sind Sprachen von Menschen, die nicht hören können."
+    },
+    {
+      "claim": "Eine Gebärde ist eine Handbewegung.",
+      "url": "https://klexikon.zum.de/wiki/Gebärdensprache",
+      "quote": "Eine Gebärde ist eine Bewegung, die man mit den Händen macht."
+    },
+    {
+      "claim": "Auch Gesicht und Körper sind wichtig.",
+      "url": "https://klexikon.zum.de/wiki/Gebärdensprache",
+      "quote": "In Gebärdensprachen ist es auch wichtig, was man mit dem Gesicht und mit dem übrigen Körper zeigt."
+    },
+    {
+      "claim": "Gehörlose verstehen sich so gut wie Menschen mit gesprochener Sprache.",
+      "url": "https://klexikon.zum.de/wiki/Gebärdensprache",
+      "quote": "Mit Gebärdensprache verstehen sich gehörlose Menschen einander genauso gut wie Menschen mit einer gesprochen Sprache."
+    },
+    {
+      "claim": "Es gibt viele verschiedene Gebärdensprachen, meist je Land.",
+      "url": "https://klexikon.zum.de/wiki/Gebärdensprache",
+      "quote": "Es gibt nicht nur eine Gebärdensprache auf der Welt, sondern viele verschiedene Gebärdensprachen."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img"><title>Sprechen mit den Händen</title>
+<rect x="0" y="0" width="1200" height="800" fill="#FBE3BE"/>
+<circle cx="1050" cy="120" r="80" fill="#F6B93B" opacity=".25"/><circle cx="1050" cy="120" r="55" fill="#F6B93B"/>
+<path d="M0 640 Q300 590 620 630 T1200 620 V800 H0Z" fill="#A9CB84"/>
+<g transform="translate(320 700) scale(1.5 1.5)">
+<rect x="-27" y="-66" width="22" height="66" rx="10" fill="#2B5141"/><rect x="5" y="-66" width="22" height="66" rx="10" fill="#2B5141"/>
+<ellipse cx="-16" cy="-2" rx="20" ry="9" fill="#243E35"/><ellipse cx="16" cy="-2" rx="20" ry="9" fill="#243E35"/>
+<path d="M-34 -118 L-70 -170" fill="none" stroke="#F6CFA9" stroke-width="15" stroke-linecap="round"/><path d="M34 -118 L70 -170" fill="none" stroke="#F6CFA9" stroke-width="15" stroke-linecap="round"/>
+<circle cx="-72" cy="-178" r="17" fill="#F6CFA9"/><circle cx="72" cy="-178" r="17" fill="#F6CFA9"/>
+<rect x="-36" y="-146" width="72" height="94" rx="22" fill="#DF693E"/>
+<circle cx="0" cy="-210" r="40" fill="#F6CFA9"/>
+<path d="M-41 -214 Q-36 -258 0 -254 Q36 -258 41 -214 Q18 -236 -6 -232 Q-26 -232 -41 -214Z" fill="#7E5A3C"/>
+<circle cx="-14" cy="-212" r="4.5" fill="#243E35"/><circle cx="14" cy="-212" r="4.5" fill="#243E35"/>
+<circle cx="-24" cy="-198" r="7" fill="#F3A6A0" opacity=".6"/><circle cx="24" cy="-198" r="7" fill="#F3A6A0" opacity=".6"/><path d="M-12 -197 Q0 -184 12 -197" fill="none" stroke="#243E35" stroke-width="4" stroke-linecap="round"/></g>
+<g transform="translate(880 700) scale(-1.5 1.5)">
+<rect x="-27" y="-66" width="22" height="66" rx="10" fill="#2B5141"/><rect x="5" y="-66" width="22" height="66" rx="10" fill="#2B5141"/>
+<ellipse cx="-16" cy="-2" rx="20" ry="9" fill="#243E35"/><ellipse cx="16" cy="-2" rx="20" ry="9" fill="#243E35"/>
+<path d="M-34 -118 L-70 -170" fill="none" stroke="#8E5A3A" stroke-width="15" stroke-linecap="round"/><path d="M34 -118 L70 -170" fill="none" stroke="#8E5A3A" stroke-width="15" stroke-linecap="round"/>
+<circle cx="-72" cy="-178" r="17" fill="#8E5A3A"/><circle cx="72" cy="-178" r="17" fill="#8E5A3A"/>
+<rect x="-36" y="-146" width="72" height="94" rx="22" fill="#3F78B5"/>
+<circle cx="0" cy="-210" r="40" fill="#8E5A3A"/>
+<path d="M-41 -214 Q-36 -258 0 -254 Q36 -258 41 -214 Q18 -236 -6 -232 Q-26 -232 -41 -214Z" fill="#243E35"/>
+<circle cx="-14" cy="-212" r="4.5" fill="#243E35"/><circle cx="14" cy="-212" r="4.5" fill="#243E35"/>
+<circle cx="-24" cy="-198" r="7" fill="#F3A6A0" opacity=".6"/><circle cx="24" cy="-198" r="7" fill="#F3A6A0" opacity=".6"/><ellipse cx="0" cy="-194" rx="7" ry="9" fill="#243E35"/></g>
+<polygon points="600,266 610,289 634,291 616,307 621,331 600,318 579,331 584,307 566,291 590,289" fill="#F2C230"/><polygon points="600,386 610,409 634,411 616,427 621,451 600,438 579,451 584,427 566,411 590,409" fill="#EC8A2E"/><polygon points="600,506 610,529 634,531 616,547 621,571 600,558 579,571 584,547 566,531 590,529" fill="#DF693E"/>
+</svg>
