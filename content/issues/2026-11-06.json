@@ -1,0 +1,92 @@
+{
+  "issueDate": "2026-11-06",
+  "post": {
+    "id": "issue-2026-11-06",
+    "slug": "wie-der-brief-zu-oma-kommt",
+    "title": "Wie kommt ein Brief zu Oma?",
+    "teaser": "Ein Brief hat eine lange Reise. Briefkasten, Briefmarke und Briefträger helfen dabei.",
+    "concept": "Die Post bringt Briefe zu Menschen: Briefkasten, Briefträger und Briefmarke gehören zusammen",
+    "world": "alltag",
+    "topics": ["Post", "Brief", "Briefmarke", "Briefkasten"],
+    "stem": {
+      "isStem": false,
+      "reason": "Das Konzept gehört zu Alltag und Zusammenleben, nicht zu Naturwissenschaft oder Technik."
+    },
+    "format": "loesung",
+    "minutes": 6,
+    "question": "Was glaubst du: Wie kommt ein Brief von dir zu Oma, ohne dass du hinläufst?",
+    "explanation": [
+      "Die Post ist ein Unternehmen, das Briefe und Pakete bringt. Du wirfst deinen Brief einfach in einen Briefkasten.",
+      "Dann holen Menschen von der Post den Brief ab. Später bringt ein Briefträger ihn zur Tür von Oma.",
+      "Das kostet etwas. Dafür gibt es die Briefmarke. Sie klebt oben rechts auf dem Umschlag und bezahlt den Weg.",
+      "Früher gab es keine Briefkästen. Da lief ein Bote mit dem Brief zum anderen Menschen."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/wie-der-brief-zu-oma-kommt.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein Kind steht an einem roten Briefkasten und hält einen Brief. In der Mitte fährt ein gelber Wagen. Rechts steht ein Haus mit einem Briefkasten, aus dem ein Brief schaut.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Die Reise eines Briefes",
+      "description": "Links steckt ein Kind einen Brief in einen roten Briefkasten. In der Mitte fährt ein gelber Wagen der Post. Rechts steht ein Haus, und aus dem Briefkasten schaut ein Brief. Ein Pfeil zeigt den Weg von links nach rechts.",
+      "lookCloser": "Schau mal genau hin: Welche Farbe hat der Wagen, und wo schaut der Brief am Haus heraus?"
+    },
+    "wow": "Früher lief ein Bote mit jedem Brief zu Fuß los, weil es noch keine Briefkästen gab.",
+    "activity": {
+      "title": "Ein Brief für Oma",
+      "materials": ["Ein Blatt Papier", "Ein Umschlag", "Stifte"],
+      "steps": [
+        "Malt zusammen ein Bild für Oma, Opa oder einen Freund.",
+        "Steckt das Bild in den Umschlag. Schreibt vorne den Namen und die Adresse auf.",
+        "Malt oben rechts eine eigene Briefmarke, so wie ihr sie schön findet.",
+        "Geht zusammen zum Briefkasten und werft den Brief ein."
+      ]
+    },
+    "check": {
+      "question": "Wofür ist die Briefmarke da?",
+      "answer": "Mit der Briefmarke bezahlt man den Weg des Briefes.",
+      "parentPrompt": "Fragt gemeinsam: Wer hat euch zuletzt etwas geschickt, und worüber habt ihr euch gefreut? Ein Brief braucht Name und Adresse, damit er ankommt."
+    },
+    "takeaway": "Die Post bringt Briefe, und die Briefmarke bezahlt den Weg.",
+    "followUp": "Wem würdest du gern einen Brief schicken?",
+    "sources": [
+      {
+        "title": "Post – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Post",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-06"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Die Post ist ein Unternehmen, das Briefe befördert.",
+      "url": "https://klexikon.zum.de/wiki/Post",
+      "quote": "Die Post ist ein Unternehmen, das Briefe und andere Postsachen befördert."
+    },
+    {
+      "claim": "Die Post bringt Briefe und Pakete.",
+      "url": "https://klexikon.zum.de/wiki/Post",
+      "quote": "Die Post befördert Briefe, Pakete und sogar Menschen."
+    },
+    {
+      "claim": "Es gibt Briefkästen und Briefträger.",
+      "url": "https://klexikon.zum.de/wiki/Post",
+      "quote": "Sie stellte überall Briefkästen auf und stellte Briefträger ein."
+    },
+    {
+      "claim": "Briefmarken dienen der Bezahlung.",
+      "url": "https://klexikon.zum.de/wiki/Post",
+      "quote": "Für die Bezahlung setzte man Briefmarken ein."
+    },
+    {
+      "claim": "Früher brachte ein Bote den Brief.",
+      "url": "https://klexikon.zum.de/wiki/Post",
+      "quote": "Man schickte einen Boten mit dem Brief auf den Weg zum Empfänger."
+    }
+  ]
+}
