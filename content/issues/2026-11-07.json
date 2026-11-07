@@ -1,0 +1,87 @@
+{
+  "issueDate": "2026-11-07",
+  "post": {
+    "id": "issue-2026-11-07",
+    "slug": "warum-voegel-nach-sueden-fliegen",
+    "title": "Warum fliegen manche Vögel im Herbst weg?",
+    "teaser": "Im Winter wird das Futter knapp. Darum machen sich manche Vögel auf eine lange Reise.",
+    "concept": "Zugvögel fliegen im Herbst in den Süden, weil im Winter das Futter knapp wird",
+    "world": "natur",
+    "topics": ["Zugvögel", "Herbst", "Vogelzug", "Winter"],
+    "stem": {
+      "isStem": true,
+      "reason": "Biologie: Es geht um das Verhalten von Tieren und ihre Nahrung im Jahreslauf."
+    },
+    "format": "warum",
+    "minutes": 6,
+    "question": "Was glaubst du: Warum fliegen manche Vögel im Herbst weit weg?",
+    "explanation": [
+      "Manche Vögel bleiben nicht das ganze Jahr bei uns. Man nennt sie Zugvögel. Jedes Jahr fliegen sie weit an einen wärmeren Ort.",
+      "Im Winter finden sie bei uns zu wenig zu fressen. Es gibt kaum noch Insekten. Darum ziehen sie in den Süden, oft bis nach Afrika.",
+      "Vorher fressen sie sich einen Vorrat an. Der Körper speichert Fett, wie ein Tank. Das gibt Kraft für die lange Reise.",
+      "Stell dir vor, dein Lieblingsessen wäre plötzlich überall weg. Dann würdest du dorthin gehen, wo es etwas gibt. Genau das tun die Zugvögel."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/warum-voegel-nach-sueden-fliegen.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Links ein kahler Herbstbaum unter grauem Himmel, rechts eine warme grüne Landschaft mit Sonne. Fünf Vögel fliegen in einer Reihe von links nach rechts.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Von der Kälte in die Wärme",
+      "description": "Links steht ein kahler Baum im kühlen Herbst. Rechts scheint die Sonne über einer grünen Wiese. Fünf Vögel fliegen hintereinander vom kalten Ort zum warmen Ort.",
+      "lookCloser": "Schau mal genau hin: Wie viele Vögel fliegen, und in welche Richtung?"
+    },
+    "wow": "Zugvögel fliegen meist hintereinander. So bekommt ein hinterer Vogel nicht so viel Flugwind ab.",
+    "activity": {
+      "title": "Zwei Wiesen malen",
+      "materials": ["zwei Blätter Papier", "Buntstifte"],
+      "steps": [
+        "Malt auf das erste Blatt eine Sommerwiese mit vielen Käfern und Blumen.",
+        "Malt auf das zweite Blatt dieselbe Wiese im Winter. Dort gibt es kaum Futter.",
+        "Legt die Blätter nebeneinander. Malt einen Vogel, der von der einen Wiese zur anderen fliegt.",
+        "Erzählt euch, warum der Vogel diese Reise macht."
+      ]
+    },
+    "check": {
+      "question": "Warum fliegen Zugvögel im Herbst nach Süden?",
+      "answer": "Bei uns wird im Winter das Futter knapp. Im Süden ist es wärmer und sie finden mehr zu fressen.",
+      "parentPrompt": "Ihr könnt auf dem Spaziergang schauen, welche Vögel noch da sind. Nicht alle Vögel ziehen weg, manche bleiben auch im Winter."
+    },
+    "takeaway": "Zugvögel fliegen weg, weil sie im Winter bei uns zu wenig Futter finden.",
+    "followUp": "Welche Vögel hast du im Winter schon gesehen?",
+    "sources": [
+      {
+        "title": "Zugvogel – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Zugvogel",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Zugvögel fliegen jedes Jahr weit an einen wärmeren Ort.",
+      "url": "https://klexikon.zum.de/wiki/Zugvogel",
+      "quote": "Zugvögel sind Vögel, die jedes Jahr weit fliegen an einen wärmeren Ort."
+    },
+    {
+      "claim": "Bei knappem Futter im Winter ziehen sie in den Süden, meist nach Afrika.",
+      "url": "https://klexikon.zum.de/wiki/Zugvogel",
+      "quote": "Wenn hier der Winter einkehrt und das Nahrungsangebot knapp wird, ziehen sie weiter in den Süden, meist nach Afrika."
+    },
+    {
+      "claim": "Vorher fressen sie sich Fettpolster an.",
+      "url": "https://klexikon.zum.de/wiki/Zugvogel",
+      "quote": "Um diese langen Reisen zu überstehen, fressen sich die Zugvögel vorher Fettpolster an."
+    },
+    {
+      "claim": "Sie fliegen hintereinander, damit der hintere Vogel weniger Flugwind abbekommt.",
+      "url": "https://klexikon.zum.de/wiki/Zugvogel",
+      "quote": "Zugvögel fliegen meist so hintereinander, dass ein hinterer Vogel nicht so viel Flugwind abbekommt."
+    }
+  ]
+}
