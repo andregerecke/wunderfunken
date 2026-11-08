@@ -1,0 +1,92 @@
+{
+  "issueDate": "2026-11-08",
+  "post": {
+    "id": "issue-2026-11-08",
+    "slug": "wozu-wir-namen-haben",
+    "title": "Wozu haben wir eigentlich Namen?",
+    "teaser": "Ein Name sagt allen: Dich meine ich. Und manchmal verrät er noch mehr.",
+    "concept": "Mit einem Namen machen wir deutlich, wen oder was wir meinen, und Nachnamen verraten oft etwas über die Familie",
+    "world": "miteinander",
+    "topics": ["Namen", "Vorname", "Nachname", "Familie"],
+    "stem": {
+      "isStem": false,
+      "reason": "Gesellschaft und Sprache: Es geht um Namen im Zusammenleben, kein Fach aus Natur oder Technik."
+    },
+    "format": "loesung",
+    "minutes": 5,
+    "question": "Was glaubst du: Wozu braucht jeder Mensch einen Namen?",
+    "explanation": [
+      "Stell dir vor, niemand hätte einen Namen. Du rufst: Komm mal her! Und alle kommen. Das wäre ein Durcheinander.",
+      "Mit einem Namen machen wir deutlich, wen wir meinen. Ein Name kann ein Vorname sein oder ein Nachname.",
+      "Auch Briefkästen haben Namen. Am Briefkasten schreibt jeder seinen Namen an. So weiß der Postbote, wo er welchen Brief einwerfen muss.",
+      "Nachnamen können noch mehr verraten. Manchmal zeigen sie, was jemand in der Familie früher gearbeitet hat."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/wozu-wir-namen-haben.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Drei Briefkästen nebeneinander, jeder mit einem Namensschild. Aus dem mittleren Briefkasten schaut ein Brief heraus.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Drei Briefkästen",
+      "description": "Drei Briefkästen stehen nebeneinander an einem Zaun. Jeder hat ein Namensschild in einer anderen Farbe. Nur im mittleren Briefkasten steckt ein Brief.",
+      "lookCloser": "Schau mal genau hin: Welcher Briefkasten hat einen Brief, und woran erkennst du ihn?"
+    },
+    "wow": "Wenn jemand Schmitt heißt, gab es in der Familie wahrscheinlich jemanden mit diesem Beruf.",
+    "activity": {
+      "title": "Namensschilder basteln",
+      "materials": ["Papier", "Stifte", "Schere"],
+      "steps": [
+        "Schneidet für jede Person bei euch zu Hause ein Schild aus Papier aus.",
+        "Schreibt oder malt auf jedes Schild einen Namen.",
+        "Klebt die Schilder an die Zimmertüren oder legt sie an die Plätze am Tisch.",
+        "Mischt die Schilder und verteilt sie neu. Wer findet seinen Namen zuerst?"
+      ]
+    },
+    "check": {
+      "question": "Wozu ist ein Name am Briefkasten gut?",
+      "answer": "So weiß der Postbote, wo er einen Brief einwerfen soll. Der Name zeigt, wer dort wohnt.",
+      "parentPrompt": "Fragt euch: Kennt ihr den Beruf, der in einem Nachnamen aus eurer Familie oder Nachbarschaft steckt?"
+    },
+    "takeaway": "Ein Name zeigt, wen wir meinen. Nachnamen verraten manchmal mehr.",
+    "followUp": "Welchen Namen trägt der Briefkasten bei euch im Haus?",
+    "sources": [
+      {
+        "title": "Name – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Name",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Mit einem Namen macht man deutlich, wen oder was man meint.",
+      "url": "https://klexikon.zum.de/wiki/Name",
+      "quote": "Mit einem Namen kann man deutlich machen, wen oder was man meint."
+    },
+    {
+      "claim": "Ein Name kann Vorname oder Nachname sein.",
+      "url": "https://klexikon.zum.de/wiki/Name",
+      "quote": "Das kann ein Vorname oder ein Nachname sein."
+    },
+    {
+      "claim": "Am Briefkasten steht der Name, damit der Postbote die Briefe zuordnen kann.",
+      "url": "https://klexikon.zum.de/wiki/Name",
+      "quote": "So weiß der Postbote, wo er Briefe einordnen soll."
+    },
+    {
+      "claim": "Nachnamen zeigen oft Herkunft oder frühere Tätigkeit der Vorfahren.",
+      "url": "https://klexikon.zum.de/wiki/Name",
+      "quote": "Nachnamen zeigen oft, woher die Vorfahren kommen oder was sie gemacht haben."
+    },
+    {
+      "claim": "Der Name Schmitt weist auf einen Beruf in der Familie hin.",
+      "url": "https://klexikon.zum.de/wiki/Name",
+      "quote": "Wenn jemand Schmitt heißt, gab es in der Familie wahrscheinlich jemanden mit diesem Beruf."
+    }
+  ]
+}
