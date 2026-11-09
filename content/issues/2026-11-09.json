@@ -1,0 +1,92 @@
+{
+  "issueDate": "2026-11-09",
+  "post": {
+    "id": "issue-2026-11-09",
+    "slug": "wie-nebel-entsteht",
+    "title": "Wie kommt der Nebel auf die Wiese?",
+    "teaser": "Nebel ist eine Wolke, die sich ganz unten am Boden versteckt.",
+    "concept": "Nebel ist eine Wolke am Boden und entsteht, wenn feuchte Luft sich abkühlt",
+    "world": "natur",
+    "topics": ["Nebel", "Wolke", "Wasser", "Herbst"],
+    "stem": {
+      "isStem": true,
+      "reason": "Natur und Physik: Es geht um Wasser in der Luft, das beim Abkühlen zu Tröpfchen wird."
+    },
+    "format": "warum",
+    "minutes": 5,
+    "question": "Was glaubst du: Woher kommt der Nebel, der an manchen Herbstmorgen über der Wiese liegt?",
+    "explanation": [
+      "Nebel ist eine Art Wolke. Nur hängt sie nicht hoch am Himmel. Sie liegt ganz unten am Boden.",
+      "Wenn du im Nebel stehst, bist du mitten in einer Wolke. Sie besteht aus winzigen Wassertropfen, die in der Luft schweben.",
+      "In der Luft ist immer etwas Wasser, das du nicht siehst. Wird die Luft kalt, bilden sich daraus kleine Tropfen. Dann sehen wir sie als Nebel.",
+      "Das passiert oft nachts, wenn der Himmel klar ist. Der Boden wird kalt und kühlt die Luft darüber ab. Scheint morgens die Sonne, wird es wärmer und der Nebel verschwindet."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/wie-nebel-entsteht.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Eine Wiese mit drei Bäumen. Über dem Boden liegt weißer Nebel wie eine Wolke, am Himmel scheint eine kleine Sonne.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Nebel über der Wiese",
+      "description": "Auf einer Wiese stehen drei Bäume. Der weiße Nebel liegt unten am Boden und verdeckt die Stämme zum Teil. Am Himmel sind zwei kleine Wolken und eine Sonne.",
+      "lookCloser": "Schau mal genau hin: Wo liegt der Nebel, und wo hängen die richtigen Wolken?"
+    },
+    "wow": "Wenn kein Wind weht, bildet sich eher Nebel.",
+    "activity": {
+      "title": "Das beschlagene Glas",
+      "materials": ["Ein Glas", "Kaltes Wasser aus dem Hahn", "Ein Tuch"],
+      "steps": [
+        "Füllt ein Glas mit sehr kaltem Wasser aus dem Hahn.",
+        "Stellt es in ein warmes Zimmer und wartet ein paar Minuten.",
+        "Schaut das Glas von außen an. Was seht ihr auf dem Glas?",
+        "Wischt mit dem Finger eine Spur hindurch. Woher kommen die kleinen Tropfen?"
+      ]
+    },
+    "check": {
+      "question": "Was ist Nebel eigentlich?",
+      "answer": "Nebel ist eine Wolke am Boden. Er besteht aus ganz kleinen Wassertropfen in der Luft.",
+      "parentPrompt": "Fragt euch: Wo habt ihr schon einmal Nebel erlebt, und wie hat sich die Luft angefühlt?"
+    },
+    "takeaway": "Nebel ist eine Wolke am Boden. Er entsteht, wenn feuchte Luft kalt wird.",
+    "followUp": "Wann siehst du Nebel, wenn du morgens aus dem Fenster schaust?",
+    "sources": [
+      {
+        "title": "Nebel – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Nebel",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-09"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Nebel ist eine Art Wolke am Erdboden.",
+      "url": "https://klexikon.zum.de/wiki/Nebel",
+      "quote": "Nebel ist eine Art Wolke, die sich am Erdboden befindet."
+    },
+    {
+      "claim": "Nebel besteht aus kleinen Wassertropfen oder Eiskristallen.",
+      "url": "https://klexikon.zum.de/wiki/Nebel",
+      "quote": "Er besteht aus kleinen Wassertropfen oder Eiskristallen in der Luft."
+    },
+    {
+      "claim": "Nebel entsteht, wenn feuchte Luft sich abkühlt.",
+      "url": "https://klexikon.zum.de/wiki/Nebel",
+      "quote": "Nebel entsteht, wenn feuchte Luft sich abkühlt."
+    },
+    {
+      "claim": "Das geschieht vor allem bei wolkenlosem Himmel.",
+      "url": "https://klexikon.zum.de/wiki/Nebel",
+      "quote": "Dies geschieht vor allem dann, wenn es am Himmel keine Wolken gibt."
+    },
+    {
+      "claim": "Ohne Wind bildet sich eher Nebel.",
+      "url": "https://klexikon.zum.de/wiki/Nebel",
+      "quote": "Wenn kein Wind weht, bildet sich eher Nebel."
+    }
+  ]
+}
