@@ -1,0 +1,97 @@
+{
+  "issueDate": "2026-11-10",
+  "post": {
+    "id": "issue-2026-11-10",
+    "slug": "maerchen-werden-weitererzaehlt",
+    "title": "Wie wandern Märchen von Mund zu Mund?",
+    "teaser": "Märchen werden immer wieder neu erzählt. Dabei verändern sie sich ein wenig.",
+    "concept": "Märchen sind kurze Geschichten mit Zauberei, die immer wieder neu erzählt werden",
+    "world": "kulturen",
+    "topics": ["Märchen", "Geschichten", "Brüder Grimm", "Erzählen"],
+    "stem": {
+      "isStem": false,
+      "reason": "Kultur und Literatur: Es geht ums Erzählen alter Geschichten, nicht um Naturwissenschaft."
+    },
+    "format": "probieren",
+    "minutes": 5,
+    "question": "Was glaubst du: Wer hat sich die alten Märchen eigentlich ausgedacht?",
+    "explanation": [
+      "Ein Märchen ist eine kurze Geschichte. Oft erlebt ein Mensch oder ein Tier ein Abenteuer.",
+      "Im Märchen gibt es Zauberei. Es passieren Dinge, die es im echten Leben nicht gibt. Meist geht ein Märchen am Ende gut aus.",
+      "Früher glaubte man, das Volk habe sich die Märchen selbst ausgedacht. Heute weiß man es genauer. Die Märchen wurden immer wieder neu erzählt.",
+      "Die Brüder Grimm haben alte Märchen aufgeschrieben. Manche davon kamen aus Frankreich. Dort standen sie schon in Büchern."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/maerchen-werden-weitererzaehlt.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein aufgeschlagenes Buch mit einem Schloss auf der linken Seite. Rechts davon stehen drei Sprechblasen mit je einem Stern.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Ein Märchen geht auf Reisen",
+      "description": "Ein aufgeschlagenes Buch zeigt links ein Schloss mit drei Türmen und rechts einen goldenen Stern. Rechts neben dem Buch schweben drei Sprechblasen mit je einem Stern.",
+      "lookCloser": "Schau mal genau hin: Wie viele Sprechblasen zählst du, und was steckt in jeder?"
+    },
+    "wow": "Manche Märchen, die die Brüder Grimm für deutsch hielten, kamen aus Frankreich.",
+    "activity": {
+      "title": "Erzählt es neu",
+      "materials": ["Ein Märchen, das ihr beide kennt"],
+      "steps": [
+        "Sucht euch ein Märchen aus, das ihr beide kennt.",
+        "Einer erzählt es in eigenen Worten. Es darf kurz sein.",
+        "Jetzt erzählt der andere es noch einmal und ändert eine Sache. Zum Beispiel eine Farbe oder einen Ort.",
+        "Hat sich das Märchen verändert? Was ist gleich geblieben?"
+      ]
+    },
+    "check": {
+      "question": "Was passiert mit einem Märchen, wenn es viele Menschen weitererzählen?",
+      "answer": "Es wird immer wieder neu erzählt. Dabei kann es sich ein wenig verändern.",
+      "parentPrompt": "Fragt euch: Welches Märchen wurde euch als Kind erzählt, und wer hat es euch erzählt?"
+    },
+    "takeaway": "Märchen werden immer wieder neu erzählt und gehen meist gut aus.",
+    "followUp": "Welches Märchen möchtest du heute Abend hören?",
+    "sources": [
+      {
+        "title": "Märchen – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Märchen",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-10"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Ein Märchen ist eine kurze Geschichte, eine Erzählung.",
+      "url": "https://klexikon.zum.de/wiki/Märchen",
+      "quote": "Ein Märchen ist eine kurze Geschichte, eine Erzählung."
+    },
+    {
+      "claim": "Im Märchen passieren Dinge, die es im richtigen Leben nicht gibt.",
+      "url": "https://klexikon.zum.de/wiki/Märchen",
+      "quote": "Es passieren Dinge, die es im richtigen Leben nicht gibt."
+    },
+    {
+      "claim": "Früher glaubte man, das Volk habe die Märchen selbst erfunden.",
+      "url": "https://klexikon.zum.de/wiki/Märchen",
+      "quote": "Früher glaubte man, dass das Volk selbst sich diese Märchen ausgedacht hat."
+    },
+    {
+      "claim": "Märchen wurden immer wieder neu erzählt.",
+      "url": "https://klexikon.zum.de/wiki/Märchen",
+      "quote": "Heute sagt man genauer, dass diese Märchen immer wieder neu erzählt worden sind."
+    },
+    {
+      "claim": "Manche Märchen kamen aus Frankreich und standen dort schon in Büchern.",
+      "url": "https://klexikon.zum.de/wiki/Märchen",
+      "quote": "Später fand man heraus, dass manche dieser Märchen tatsächlich aus Frankreich kamen und dort schon in Büchern standen."
+    },
+    {
+      "claim": "Ein Märchen soll gut ausgehen.",
+      "url": "https://klexikon.zum.de/wiki/Märchen",
+      "quote": "Wichtig ist es aber, dass ein Märchen gut ausgeht."
+    }
+  ]
+}

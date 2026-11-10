@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img"><title>maerchen-werden-weitererzaehlt</title><rect x="0" y="0" width="1200" height="800" fill="#F3E5F4" />
+<ellipse cx="480" cy="640" rx="360" ry="40" fill="#E2CBE4" />
+<path d="M130 220 L480 260 L480 620 L130 580 Z" fill="#FFFDF5" stroke="#7B3F86" stroke-width="8" stroke-linejoin="round" />
+<path d="M830 220 L480 260 L480 620 L830 580 Z" fill="#FFF8E6" stroke="#7B3F86" stroke-width="8" stroke-linejoin="round" />
+<path d="M480 260 L480 620" stroke="#7B3F86" stroke-width="8" stroke-linecap="round" />
+<rect x="190" y="400" width="230" height="140" fill="#C9B79C" />
+<rect x="190" y="350" width="60" height="50" fill="#B8A688" />
+<rect x="360" y="350" width="60" height="50" fill="#B8A688" />
+<polygon points="180,350 220,290 260,350" fill="#C0504D" />
+<polygon points="350,350 390,290 430,350" fill="#C0504D" />
+<rect x="270" y="320" width="70" height="80" fill="#B8A688" />
+<polygon points="260,320 305,262 350,320" fill="#C0504D" />
+<path d="M285 540 L285 480 Q305 455 325 480 L325 540 Z" fill="#7E5A3C" />
+<circle cx="220" cy="440" r="10" fill="#F2C94C" />
+<circle cx="390" cy="440" r="10" fill="#F2C94C" />
+<polygon points="305,262 305,225" stroke="#7E5A3C" stroke-width="5" />
+<polygon points="305,225 335,235 305,245" fill="#F2C94C" />
+<polygon points="650,330 665,372 710,372 674,398 688,440 650,414 612,440 626,398 590,372 635,372" fill="#F2C94C" />
+<path d="M560 480 Q640 440 740 500" fill="none" stroke="#2B6B3F" stroke-width="10" stroke-linecap="round" />
+<ellipse cx="610" cy="470" rx="20" ry="10" fill="#6FAF6B" />
+<ellipse cx="690" cy="478" rx="20" ry="10" fill="#6FAF6B" />
+<path d="M860 130 Q860 80 920 80 L1010 80 Q1070 80 1070 130 Q1070 180 1010 180 L940 180 L900 215 L905 180 Q860 175 860 130Z" fill="#FFFFFF" stroke="#7B3F86" stroke-width="6" stroke-linejoin="round" />
+<polygon points="965,105 973,128 997,128 978,142 985,165 965,151 945,165 952,142 933,128 957,128" fill="#F2C94C" />
+<path d="M900 330 Q900 280 960 280 L1050 280 Q1110 280 1110 330 Q1110 380 1050 380 L980 380 L940 415 L945 380 Q900 375 900 330Z" fill="#FFFFFF" stroke="#7B3F86" stroke-width="6" stroke-linejoin="round" />
+<polygon points="1005,305 1013,328 1037,328 1018,342 1025,365 1005,351 985,365 992,342 973,328 997,328" fill="#F2C94C" />
+<path d="M860 530 Q860 480 920 480 L1010 480 Q1070 480 1070 530 Q1070 580 1010 580 L940 580 L900 615 L905 580 Q860 575 860 530Z" fill="#FFFFFF" stroke="#7B3F86" stroke-width="6" stroke-linejoin="round" />
+<polygon points="965,505 973,528 997,528 978,542 985,565 965,551 945,565 952,542 933,528 957,528" fill="#F2C94C" />
+<path d="M760 300 L830 190 M770 400 L880 360 M760 500 L850 530" fill="none" stroke="#B07CBA" stroke-width="6" stroke-linecap="round" stroke-dasharray="4 16" />
+</svg>
