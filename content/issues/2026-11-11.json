@@ -1,0 +1,87 @@
+{
+  "issueDate": "2026-11-11",
+  "post": {
+    "id": "issue-2026-11-11",
+    "slug": "die-ampel-sagt-wann",
+    "title": "Wer sagt an der Ampel, wann ich gehe?",
+    "teaser": "Rot, Gelb und Grün sagen allen an der Kreuzung, wer wann dran ist.",
+    "concept": "Eine Ampel zeigt mit Farben, wer anhalten muss und wer gehen oder fahren darf",
+    "world": "miteinander",
+    "topics": ["Ampel", "Straße", "Regeln", "Verkehr"],
+    "stem": {
+      "isStem": false,
+      "reason": "Das Konzept gehört zu Regeln und Zusammenleben, nicht zu Naturwissenschaft oder Technik."
+    },
+    "format": "loesung",
+    "minutes": 6,
+    "question": "Was glaubst du: Woher wissen alle an einer Kreuzung, wer zuerst losgehen darf?",
+    "explanation": [
+      "An einer großen Kreuzung sind viele unterwegs. Autos, Fahrräder und Menschen zu Fuß wollen alle weiter.",
+      "Eine Ampel hilft dabei. Sie zeigt mit farbigen Lichtern, wer anhalten muss und wer fahren oder gehen darf.",
+      "Es gibt drei Farben: Rot, Gelb und Grün. Für Fußgänger gibt es das rote Männchen, das steht, und das grüne Männchen, das geht.",
+      "So kommen alle der Reihe nach über die Kreuzung."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/die-ampel-sagt-wann.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Zwei Ampeln mit Männchen nebeneinander. Links leuchtet ein rotes stehendes Männchen, rechts ein grünes gehendes Männchen. Dazwischen verläuft ein Zebrastreifen.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Rot steht, Grün geht",
+      "description": "Links zeigt eine Ampel ein rotes, stehendes Männchen. Rechts zeigt eine Ampel ein grünes, gehendes Männchen. Zwischen den beiden Ampeln liegt eine graue Straße mit einem Zebrastreifen aus fünf Streifen.",
+      "lookCloser": "Schau mal genau hin: Welche Ampel sagt „Stopp“, und welche sagt „Du darfst gehen“?"
+    },
+    "wow": "Die erste Ampel der Welt stand schon im Jahr 1868 in London.",
+    "activity": {
+      "title": "Das Ampelspiel",
+      "materials": ["Rotes Papier", "Grünes Papier"],
+      "steps": [
+        "Einer von euch hält das rote oder das grüne Papier hoch.",
+        "Bei Rot bleibt der andere stehen. Bei Grün geht er langsam durchs Zimmer.",
+        "Tauscht nach einer Weile die Rollen.",
+        "Spielt nur drinnen und weit weg von der Straße."
+      ]
+    },
+    "check": {
+      "question": "Was macht das rote Männchen an der Ampel?",
+      "answer": "Das rote Männchen steht und sagt: Bleib stehen.",
+      "parentPrompt": "Fragt gemeinsam: Wo habt ihr heute eine Ampel gesehen? Schaut bei Grün trotzdem zuerst nach links und rechts, bevor ihr über die Straße geht."
+    },
+    "takeaway": "Die Ampel zeigt mit Farben, wer warten muss und wer gehen darf.",
+    "followUp": "Wo hast du schon einmal an einer Ampel gewartet?",
+    "sources": [
+      {
+        "title": "Ampel – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Ampel",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-11"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Eine Ampel regelt den Verkehr mit farbigen Lichtern.",
+      "url": "https://klexikon.zum.de/wiki/Ampel",
+      "quote": "Eine Ampel ist eine Anlage, die mit Hilfe von farbigen Leuchtsignalen den Verkehr regelt."
+    },
+    {
+      "claim": "Es gibt drei Farben: Rot, Gelb und Grün.",
+      "url": "https://klexikon.zum.de/wiki/Ampel",
+      "quote": "Potts nutzte dazu elektrische Lampen in drei Farben: Rot, Gelb und Grün."
+    },
+    {
+      "claim": "Das rote Männchen steht, das grüne geht.",
+      "url": "https://klexikon.zum.de/wiki/Ampel",
+      "quote": "Es sollte ein grünes Männchen sein, das geht und ein rotes Männchen, das steht."
+    },
+    {
+      "claim": "Die erste Ampel stand 1868 in London.",
+      "url": "https://klexikon.zum.de/wiki/Ampel",
+      "quote": "Die erste Ampel wurde vor fast 150 Jahren im Jahr 1868 in London aufgestellt."
+    }
+  ]
+}
