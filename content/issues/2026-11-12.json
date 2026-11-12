@@ -1,0 +1,99 @@
+{
+  "issueDate": "2026-11-12",
+  "post": {
+    "id": "issue-2026-11-12",
+    "slug": "gaensehaut-bei-kaelte",
+    "title": "Warum bekommen wir Gänsehaut?",
+    "teaser": "Bei Kälte und starken Gefühlen stellen sich auf der Haut kleine Haare auf.",
+    "concept": "Bei Gänsehaut ziehen sich winzige Muskeln zusammen und stellen die Körperhaare auf",
+    "world": "koerper",
+    "topics": [
+      "Gänsehaut",
+      "Haut",
+      "Kälte",
+      "Haare"
+    ],
+    "stem": {
+      "isStem": true,
+      "reason": "Das Konzept gehört zur Biologie und zum Körper: Muskeln und Nerven richten die Haare auf."
+    },
+    "format": "warum",
+    "minutes": 6,
+    "question": "Was glaubst du: Warum bekommen wir bei Kälte kleine Hubbel auf der Haut?",
+    "explanation": [
+      "Kennst du das? Dir ist kalt, und plötzlich sind auf deinem Arm lauter kleine Hubbel. Das nennt man Gänsehaut.",
+      "In deiner Haut stecken winzige Muskeln. Deine Nerven sagen ihnen: Zieht euch zusammen! Dann stellen sich die Haare auf, und die Haut bekommt kleine Höcker.",
+      "Das machst du nicht mit Absicht. Dein Körper erledigt das ganz allein.",
+      "Bei Tieren mit viel Fell ist das nützlich. Zwischen den aufgestellten Haaren bleibt mehr Luft, und die hält warm. Gänsehaut bekommst du aber auch bei starken Gefühlen, zum Beispiel bei Freude oder Angst."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/gaensehaut-bei-kaelte.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Zwei Hautstücke nebeneinander. Links liegen fünf Haare flach unter einer Sonne. Rechts stehen fünf Haare aufrecht unter einer Schneeflocke, die Haut zeigt kleine Hubbel.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Haare liegen, Haare stehen",
+      "description": "Links liegen fünf Haare flach auf der Haut, darüber scheint eine gelbe Sonne. Rechts stehen fünf Haare aufrecht auf der Haut, darüber ist eine blaue Schneeflocke, und die Haut hat fünf kleine Hubbel.",
+      "lookCloser": "Schau mal genau hin: Auf welcher Seite stehen die Haare, und was ist dort anders als links?"
+    },
+    "wow": "Früher war Gänsehaut auch für den Menschen wichtig, denn sie half, den Körper warm zu halten.",
+    "activity": {
+      "title": "Haare auf dem Arm entdecken",
+      "materials": [
+        "Eine Lupe, wenn ihr eine habt"
+      ],
+      "steps": [
+        "Schiebt den Ärmel hoch und schaut euren Unterarm an.",
+        "Entdeckt ihr feine Haare? Schaut mit der Lupe noch genauer hin.",
+        "Streicht einmal ganz sanft mit dem Finger über den Arm. Bewegen sich die Haare?",
+        "Erzählt euch etwas Schönes oder summt ein Lieblingslied. Bekommt einer von euch Gänsehaut?"
+      ]
+    },
+    "check": {
+      "question": "Wann bekommt man Gänsehaut?",
+      "answer": "Man bekommt Gänsehaut bei Kälte oder bei starken Gefühlen wie Freude oder Angst.",
+      "parentPrompt": "Fragt gemeinsam: Wann hattet ihr zuletzt Gänsehaut? Sprecht darüber, dass der Körper das von allein macht."
+    },
+    "takeaway": "Bei Gänsehaut stellen kleine Muskeln die Haare auf, ganz von allein.",
+    "followUp": "Bei welchem Lied oder welcher Geschichte bekommst du Gänsehaut?",
+    "sources": [
+      {
+        "title": "Gänsehaut – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Gänsehaut",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-12"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Gänsehaut kommt bei Kälte oder starken Gefühlen.",
+      "url": "https://klexikon.zum.de/wiki/Gänsehaut",
+      "quote": "Gänsehaut kriegt man bei Kälte oder bei starken Gefühlen."
+    },
+    {
+      "claim": "Nerven lassen kleine Muskeln sich zusammenziehen.",
+      "url": "https://klexikon.zum.de/wiki/Gänsehaut",
+      "quote": "Die Nerven im Körper sorgen dafür, dass sich kleine Muskeln zusammenziehen."
+    },
+    {
+      "claim": "Der Körper macht das automatisch.",
+      "url": "https://klexikon.zum.de/wiki/Gänsehaut",
+      "quote": "Man kann nichts dagegen tun, das macht der Körper automatisch."
+    },
+    {
+      "claim": "Aufgerichtete Haare halten mit Luft warm.",
+      "url": "https://klexikon.zum.de/wiki/Gänsehaut",
+      "quote": "Damit bleibt mehr Luft zwischen den Haaren, die den Körper warm hält."
+    },
+    {
+      "claim": "Gänsehaut war früher auch für den Menschen wichtig.",
+      "url": "https://klexikon.zum.de/wiki/Gänsehaut",
+      "quote": "Das war früher auch für den Menschen wichtig."
+    }
+  ]
+}
