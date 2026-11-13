@@ -1,0 +1,82 @@
+{
+  "issueDate": "2026-11-13",
+  "post": {
+    "id": "issue-2026-11-13",
+    "slug": "wau-wau-ouaf-ouaf-woof-woof",
+    "title": "Wie bellt ein Hund in anderen Ländern?",
+    "teaser": "Ein Hund bellt überall gleich, aber die Wörter dafür klingen in jeder Sprache anders.",
+    "concept": "Lautmalerei: Wörter machen Geräusche nach, und jede Sprache klingt dabei ein bisschen anders",
+    "world": "sprache",
+    "topics": ["Lautmalerei", "Tierlaute", "Sprachen", "Hund"],
+    "stem": {
+      "isStem": false,
+      "reason": "Das Konzept gehört zur Sprache: Es geht um Wörter, die Geräusche nachmachen, nicht um Naturwissenschaft."
+    },
+    "format": "probieren",
+    "minutes": 6,
+    "question": "Was glaubst du: Sagt ein Hund in Frankreich auch wau-wau?",
+    "explanation": [
+      "Ein Hund bellt. Wir schreiben das Geräusch als wau-wau auf. Solche Wörter machen einen Klang nach. Man nennt das Lautmalerei.",
+      "Der Hund in Frankreich bellt aber nicht wau-wau. Dort schreibt man ouaf-ouaf. Im Englischen heißt es woof-woof.",
+      "Der Hahn ruft bei uns kikeriki. In den Niederlanden ruft er kukeleku.",
+      "Die Tiere klingen überall gleich. Aber jede Sprache hat ihre eigenen Laute. Damit baut sie die Geräusche nach, so gut es geht."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/wau-wau-ouaf-ouaf-woof-woof.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Drei gleiche braune Hunde stehen nebeneinander. Über jedem ist eine Sprechblase: wau-wau, ouaf-ouaf und woof-woof.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Drei Hunde, drei Bellwörter",
+      "description": "Drei gleiche braune Hunde stehen auf einer Wiese. Über dem linken Hund steht in einer Sprechblase wau-wau, über dem mittleren ouaf-ouaf und über dem rechten woof-woof.",
+      "lookCloser": "Schau mal genau hin: Sehen die drei Hunde verschieden aus, oder sind es nur die Wörter?"
+    },
+    "wow": "Der Hahn ruft auf Deutsch kikeriki und auf Niederländisch kukeleku, obwohl er immer gleich kräht.",
+    "activity": {
+      "title": "Tierlaute neu erfinden",
+      "materials": [],
+      "steps": [
+        "Überlegt, wie ein Hund bellt, und sagt es laut: wau-wau.",
+        "Denkt euch ein ganz neues Wort für das Bellen aus.",
+        "Macht es mit der Katze, der Kuh oder dem Schaf genauso.",
+        "Rät der andere, welches Tier ihr meint?"
+      ]
+    },
+    "check": {
+      "question": "Warum bellt der Hund in Frankreich ouaf-ouaf?",
+      "answer": "Der Hund bellt überall gleich, aber die französische Sprache schreibt das Geräusch mit anderen Lauten auf.",
+      "parentPrompt": "Fragt gemeinsam: Welche Tierlaute kennt ihr noch? Sprecht darüber, dass jede Sprache einen Klang auf ihre Art nachmacht."
+    },
+    "takeaway": "Wörter können Geräusche nachmachen, und jede Sprache macht sie ein bisschen anders.",
+    "followUp": "Welches Geräusch würdest du gern mit einem neuen Wort nachmachen?",
+    "sources": [
+      {
+        "title": "Lautmalerei – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Lautmalerei",
+        "publisher": "Wikipedia",
+        "checkedAt": "2026-11-13"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Lautmalerei ist die sprachliche Nachahmung von Geräuschen.",
+      "url": "https://de.wikipedia.org/wiki/Lautmalerei",
+      "quote": "Onomatopoesie ist die sprachliche Nachahmung von außersprachlichen Schallereignissen."
+    },
+    {
+      "claim": "Der Hahnenschrei heißt im Deutschen kikeriki, im Niederländischen kukeleku.",
+      "url": "https://de.wikipedia.org/wiki/Lautmalerei",
+      "quote": "der Hahnenschrei im Deutschen mit kikeriki, im Niederländischen mit kukeleku,"
+    },
+    {
+      "claim": "Das Bellen heißt deutsch wau-wau, französisch ouaf-ouaf, englisch woof-woof.",
+      "url": "https://de.wikipedia.org/wiki/Lautmalerei",
+      "quote": "deutsch wau-wau, französisch ouaf-ouaf, englisch woof-woof"
+    }
+  ]
+}
