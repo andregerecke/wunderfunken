@@ -1,0 +1,77 @@
+{
+  "issueDate": "2026-11-14",
+  "post": {
+    "id": "issue-2026-11-14",
+    "slug": "warum-wir-danke-sagen",
+    "title": "Warum tut ein Danke so gut?",
+    "teaser": "Dankbar sein ist ein warmes Gefühl. Es freut den, der es spürt, und den, der es hört.",
+    "concept": "Dankbarkeit ist ein warmes Gefühl für etwas Gutes, das man bekommen hat, und ein Danke macht auch den anderen froh",
+    "world": "gefuehle",
+    "topics": ["Dankbarkeit", "Gefühle", "Danke sagen", "Freundlichkeit"],
+    "stem": {
+      "isStem": false,
+      "reason": "Das Konzept gehört zu den Gefühlen und zum Miteinander, nicht zu Naturwissenschaft oder Technik."
+    },
+    "format": "warum",
+    "minutes": 6,
+    "question": "Was glaubst du: Was passiert, wenn du dich bei jemandem bedankst?",
+    "explanation": [
+      "Jemand schenkt dir etwas oder hilft dir. Dann spürst du oft ein warmes Gefühl. Das nennt man Dankbarkeit.",
+      "Dankbar kannst du sein, wenn dir jemand die Tür aufhält. Oder wenn Oma dein Lieblingsessen kocht. Auch über einen schönen Tag kann man dankbar sein.",
+      "Wenn du Danke sagst, zeigst du dein Gefühl. Der andere merkt: Das hat mir jemand gerne abgenommen. Dann freut er sich auch.",
+      "So wird aus einer Freundlichkeit eine zweite. Wer ein Danke hört, hilft oft gern wieder."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/warum-wir-danke-sagen.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein Mädchen reicht einem Jungen einen Apfel. Über beiden schweben rote Herzen, vom Jungen zum Mädchen führt ein Pfeil zurück.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Ein Geschenk und ein Danke",
+      "description": "Ein Mädchen gibt einem Jungen einen roten Apfel. Der Junge lächelt. Drei Herzen schweben über ihm, und ein Pfeil mit einem Herz führt von ihm zurück zum Mädchen.",
+      "lookCloser": "Schau mal genau hin: Wie viele Herzen schweben über dem Jungen, und wohin zeigt der Pfeil?"
+    },
+    "wow": "Dankbare Menschen schlafen besser, vermutlich weil sie vor dem Einschlafen mehr schöne Gedanken haben.",
+    "activity": {
+      "title": "Drei Dankeschöns",
+      "materials": [],
+      "steps": [
+        "Überlegt, was heute schön war. Zum Beispiel ein Lied, ein Essen oder ein Lächeln.",
+        "Sagt reihum drei Dinge, für die ihr dankbar seid.",
+        "Sucht euch eine Person aus und sagt ihr heute noch Danke.",
+        "Merkt, wie sie schaut, wenn sie es hört."
+      ]
+    },
+    "check": {
+      "question": "Wer freut sich, wenn du Danke sagst?",
+      "answer": "Du freust dich über dein warmes Gefühl, und der andere freut sich auch, weil er sieht, dass seine Hilfe gut war.",
+      "parentPrompt": "Fragt gemeinsam: Wann hat euch zuletzt jemand Danke gesagt, und wie hat sich das angefühlt?"
+    },
+    "takeaway": "Danke sagen macht warm: Es freut dich und den anderen.",
+    "followUp": "Wem möchtest du morgen Danke sagen?",
+    "sources": [
+      {
+        "title": "Dankbarkeit – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Dankbarkeit",
+        "publisher": "Wikipedia",
+        "checkedAt": "2026-11-14"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Dankbarkeit kann positives soziales Verhalten bei dem verstärken, der etwas Gutes getan hat.",
+      "url": "https://de.wikipedia.org/wiki/Dankbarkeit",
+      "quote": "Dankbarkeit kann auch dazu führen, dass sich positives soziales Verhalten im Wohltäter verstärkt."
+    },
+    {
+      "claim": "Dankbare Menschen schlafen besser, vermutlich wegen mehr positiver Gedanken vor dem Einschlafen.",
+      "url": "https://de.wikipedia.org/wiki/Dankbarkeit",
+      "quote": "Dankbare Menschen schlafen besser, vermutlich weil sie weniger negative, mehr positive Gedanken vor dem Einschlafen haben."
+    }
+  ]
+}
