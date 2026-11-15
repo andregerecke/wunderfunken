@@ -1,0 +1,90 @@
+{
+  "issueDate": "2026-11-15",
+  "post": {
+    "id": "issue-2026-11-15",
+    "slug": "schwimmen-oder-sinken",
+    "title": "Warum schwimmt ein Schiff?",
+    "teaser": "Ein Stein sinkt, ein schweres Schiff schwimmt. Das Wasser hilft dabei mit.",
+    "concept": "Ein Schiff schwimmt, weil es Wasser verdrängt und das Wasser es nach oben trägt, auch wenn es schwer ist",
+    "world": "technik",
+    "topics": [
+      "Schwimmen",
+      "Sinken",
+      "Auftrieb",
+      "Schiff"
+    ],
+    "stem": {
+      "isStem": true,
+      "reason": "Das Konzept gehört zur Physik: Verdrängtes Wasser sorgt für Auftrieb."
+    },
+    "format": "probieren",
+    "minutes": 6,
+    "question": "Was glaubst du: Wie kann ein schweres Schiff auf dem Wasser schwimmen?",
+    "explanation": [
+      "Ein Apfel schwimmt im Wasser. Ein Stein geht unter. Das kennst du vom Bach oder vom Baden.",
+      "Ein Schiff drückt beim Schwimmen Wasser zur Seite. Das nennt man verdrängen. Das Wasser drückt dafür von unten nach oben. Das ist der Auftrieb.",
+      "Eine Kugel aus Knete verdrängt nur wenig Wasser. Sie sinkt. Formst du die Knete zu einem Schiffchen, verdrängt sie viel mehr Wasser. Dann schwimmt sie.",
+      "Darum können auch große Schiffe schwimmen. Nur wenn Wasser hineinläuft, gehen sie unter."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/schwimmen-oder-sinken.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein Wasserbecken: Links liegt eine rote Kugel am Boden, rechts schwimmt ein rotes Schiffchen mit gelber Flagge. Zwei Pfeile zeigen unter dem Schiffchen nach oben.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Kugel und Schiffchen",
+      "description": "Im Wasserbecken liegt links eine rote Kugel am Boden. Rechts schwimmt ein rotes Schiffchen mit einer gelben Flagge. Unter dem Schiffchen zeigen zwei Pfeile nach oben.",
+      "lookCloser": "Schau mal genau hin: Wie viele Pfeile zeigen unter dem Schiffchen nach oben, und wo liegt die Kugel?"
+    },
+    "wow": "Ein Schiff kann auf dem Wasser treiben, auch wenn es schwerer ist als Wasser.",
+    "activity": {
+      "title": "Knete schwimmt",
+      "materials": [
+        "Eine Schüssel mit Wasser",
+        "Ein Stück Knete"
+      ],
+      "steps": [
+        "Stellt die Schüssel auf einen Tisch, den ihr gern nass machen dürft.",
+        "Formt aus der Knete eine Kugel und legt sie ins Wasser. Sie sinkt.",
+        "Holt die Knete heraus und trocknet sie ab. Formt daraus ein flaches Schiffchen mit hohem Rand.",
+        "Setzt das Schiffchen vorsichtig aufs Wasser. Wie viele Murmeln oder Knöpfe trägt es? Passt auf, dass nichts in den Mund kommt."
+      ]
+    },
+    "check": {
+      "question": "Warum schwimmt das Knete-Schiffchen, die Kugel aber nicht?",
+      "answer": "Das Schiffchen verdrängt viel mehr Wasser als die Kugel. Das Wasser trägt es dafür nach oben.",
+      "parentPrompt": "Fragt gemeinsam: Was passiert, wenn Wasser über den Rand ins Schiffchen läuft?"
+    },
+    "takeaway": "Ein Schiff verdrängt Wasser, und das Wasser trägt es.",
+    "followUp": "Was würdest du auf dein Knete-Schiff laden?",
+    "sources": [
+      {
+        "title": "Schiff – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Schiff",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Der Schiffsrumpf verdrängt Wasser, und das sorgt für Auftrieb.",
+      "url": "https://klexikon.zum.de/wiki/Schiff",
+      "quote": "Er verdrängt Wasser, und das sorgt für Auftrieb."
+    },
+    {
+      "claim": "Ein Schiff kann treiben, auch wenn es schwerer ist als Wasser.",
+      "url": "https://klexikon.zum.de/wiki/Schiff",
+      "quote": "Aus diesem Grund kann ein Schiff auf dem Wasser treiben, auch wenn es schwerer ist als Wasser."
+    },
+    {
+      "claim": "Dringt Wasser in den Rumpf ein, sinkt das Schiff.",
+      "url": "https://klexikon.zum.de/wiki/Schiff",
+      "quote": "Wenn aber Wasser in den Rumpf eindringt, sinkt es."
+    }
+  ]
+}
