@@ -1,0 +1,92 @@
+{
+  "issueDate": "2026-11-16",
+  "post": {
+    "id": "issue-2026-11-16",
+    "slug": "aus-buchstaben-werden-woerter",
+    "title": "Wie machen Buchstaben ein Wort?",
+    "teaser": "Mit wenigen Zeichen lassen sich alle Wörter aufschreiben, auch ganz neue.",
+    "concept": "Buchstaben sind Zeichen für Laute, und aus ihnen setzt man Wörter zusammen",
+    "world": "sprache",
+    "topics": ["Alphabet", "Buchstaben", "Schrift", "Wörter"],
+    "stem": {
+      "isStem": false,
+      "reason": "Das Konzept gehört zu Sprache und Schrift, nicht zu Naturwissenschaft oder Technik."
+    },
+    "format": "warum",
+    "minutes": 6,
+    "question": "Was glaubst du: Wie kann man mit so wenigen Buchstaben so viele Wörter aufschreiben?",
+    "explanation": [
+      "Ein Alphabet besteht aus Buchstaben. Jeder Buchstabe ist ein Zeichen, das zu einem Laut gehört.",
+      "Sprich einmal langsam das Wort Mond. Du hörst vier Laute: M, O, N und D.",
+      "Für jeden Laut gibt es einen Buchstaben. Setzt man sie hintereinander, steht da ein Wort.",
+      "Das Schöne daran: Man braucht nur wenige Buchstaben. Aus ihnen lassen sich unzählige Wörter bauen."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/aus-buchstaben-werden-woerter.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Vier bunte Bauklötze stehen nebeneinander und tragen die Buchstaben M, O, N und D. Darüber leuchtet ein gelber Mond.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "M, O, N, D: Mond",
+      "description": "Vier bunte Bauklötze stehen in einer Reihe. Auf ihnen steht nacheinander M, O, N und D. Über den Klötzen leuchtet ein gelber Mond mit vier kleinen Sternen.",
+      "lookCloser": "Schau mal genau hin: Welches Wort ergeben die vier Buchstaben, und was leuchtet darüber?"
+    },
+    "wow": "Es waren die Griechen, die Vokale in das Alphabet einfügten. Das Wort Alphabet kommt von „alpha“ und „beta“, den ersten Buchstaben dort.",
+    "activity": {
+      "title": "Wörter aus Buchstaben bauen",
+      "materials": ["Papier", "Stift", "Schere"],
+      "steps": [
+        "Schneidet aus Papier kleine Kärtchen. Schreibt auf jedes einen Buchstaben, zum Beispiel M, O, N und D.",
+        "Legt die Kärtchen in die richtige Reihenfolge, sodass ein Wort entsteht.",
+        "Tauscht ein Kärtchen aus. Aus Mond kann zum Beispiel Mund werden.",
+        "Überlegt euch zusammen ein neues Wort und legt es."
+      ]
+    },
+    "check": {
+      "question": "Wofür steht ein Buchstabe?",
+      "answer": "Ein Buchstabe ist ein Zeichen, das zu einem Laut gehört.",
+      "parentPrompt": "Fragt gemeinsam: Welche Laute hört ihr in eurem Namen? Sprecht ihn langsam und zählt sie."
+    },
+    "takeaway": "Buchstaben sind Zeichen für Laute, und aus ihnen setzen wir Wörter zusammen.",
+    "followUp": "Welches Wort möchtest du als Nächstes aus Buchstaben legen?",
+    "sources": [
+      {
+        "title": "Alphabet – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Alphabet",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-16"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Ein Alphabet besteht aus Buchstaben.",
+      "url": "https://klexikon.zum.de/wiki/Alphabet",
+      "quote": "Ein Alphabet oder Alfabet besteht aus Buchstaben."
+    },
+    {
+      "claim": "Buchstaben sind Zeichen, die zu Lauten gehören.",
+      "url": "https://klexikon.zum.de/wiki/Alphabet",
+      "quote": "Das sind Zeichen, die zu Lauten gehören."
+    },
+    {
+      "claim": "Aus Buchstaben kann man Wörter zusammensetzen.",
+      "url": "https://klexikon.zum.de/wiki/Alphabet",
+      "quote": "Aus den Buchstaben kann man Wörter zusammensetzen."
+    },
+    {
+      "claim": "Die Griechen fügten Vokale in das Alphabet ein.",
+      "url": "https://klexikon.zum.de/wiki/Alphabet",
+      "quote": "Es waren die Griechen, die Vokale in das Alphabet einfügten."
+    },
+    {
+      "claim": "Alphabet kommt von alpha und beta.",
+      "url": "https://klexikon.zum.de/wiki/Alphabet",
+      "quote": "Das deutsche Wort Alphabet stammt aus dem Griechischen: „alpha“ und „beta“ heißen dort die beiden ersten Buchstaben."
+    }
+  ]
+}
