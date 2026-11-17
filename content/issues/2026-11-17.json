@@ -1,0 +1,97 @@
+{
+  "issueDate": "2026-11-17",
+  "post": {
+    "id": "issue-2026-11-17",
+    "slug": "wie-ein-echo-entsteht",
+    "title": "Wie kommt das Echo zurück?",
+    "teaser": "Du rufst, und gleich darauf ruft es zurück. Wie kann das sein?",
+    "concept": "Ein Echo entsteht, wenn Schall gegen eine Wand stößt und zurückkommt",
+    "world": "natur",
+    "topics": ["Echo", "Schall", "Hören", "Physik"],
+    "stem": {
+      "isStem": true,
+      "reason": "Das Konzept gehört zur Physik: Schall wird zurückgeworfen."
+    },
+    "format": "probieren",
+    "minutes": 6,
+    "question": "Was glaubst du: Wer antwortet dir, wenn du in eine große leere Halle rufst?",
+    "explanation": [
+      "Wenn du sprichst, bewegt sich die Luft in winzigen, schnellen Schwingungen. Das nennen wir Schall.",
+      "Der Schall wandert durch den Raum. Trifft er auf eine Wand, kommt er wieder zurück.",
+      "Dann hörst du deine eigene Stimme noch einmal. Das ist ein Echo.",
+      "Bei einer nahen Wand kommt der Schall so schnell zurück, dass du kein Echo hörst. Ist die Wand weiter weg, dauert es länger. Dann kannst du den Wiederhall gut hören."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/wie-ein-echo-entsteht.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein Kind steht links auf einer Wiese und ruft. Von seinem Mund gehen drei Wellenbögen zu einer Felswand rechts. Drei Wellenbögen laufen von der Wand zurück.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Der Schall läuft hin und zurück",
+      "description": "Links steht ein Kind auf einer Wiese und ruft. Drei Wellenbögen laufen nach rechts zu einer großen Felswand. Von der Wand laufen drei Wellenbögen zurück zum Kind.",
+      "lookCloser": "Schau mal genau hin: In welche Richtung zeigen die Pfeile, bevor der Schall die Wand trifft, und in welche danach?"
+    },
+    "wow": "Auch Fledermäuse nutzen das Echo. Sie rufen, und wenn der Schall auf ein Insekt stößt und zurückkommt, hören sie es.",
+    "activity": {
+      "title": "Ein Echo suchen",
+      "materials": ["ein großer leerer Raum, ein Treppenhaus oder ein Tunnel"],
+      "steps": [
+        "Geht gemeinsam an einen großen Ort mit glatten Wänden, zum Beispiel in ein Treppenhaus oder eine Unterführung.",
+        "Klatscht einmal laut in die Hände und lauscht ganz still.",
+        "Ruft ein kurzes Wort, zum Beispiel Hallo, und wartet auf die Antwort.",
+        "Probiert danach einen kleinen Raum aus, zum Beispiel das Bad. Hört ihr dort ein Echo?"
+      ]
+    },
+    "check": {
+      "question": "Was passiert mit dem Schall, wenn er gegen eine Wand stößt?",
+      "answer": "Er kommt zurück. So hören wir unsere eigene Stimme noch einmal als Echo.",
+      "parentPrompt": "Fragt gemeinsam: Wo habt ihr schon einmal ein Echo gehört? Und warum hört man in einem kleinen Zimmer keins?"
+    },
+    "takeaway": "Ein Echo entsteht, wenn der Schall gegen eine Wand stößt und zurückkommt.",
+    "followUp": "Wo könnten wir als Nächstes ein Echo suchen?",
+    "sources": [
+      {
+        "title": "Echo – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Echo",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-17"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Schall besteht aus schnellen Schwingungen der Luft.",
+      "url": "https://klexikon.zum.de/wiki/Echo",
+      "quote": "Schall besteht aus schnellen Schwingungen der Luft."
+    },
+    {
+      "claim": "Stoßen die Schwingungen gegen eine Wand, kommen sie zurück.",
+      "url": "https://klexikon.zum.de/wiki/Echo",
+      "quote": "Wenn diese Schwingungen gegen eine Wand stoßen, kommen sie wieder zurück."
+    },
+    {
+      "claim": "Man hört sein eigenes Echo.",
+      "url": "https://klexikon.zum.de/wiki/Echo",
+      "quote": "Wer etwas gesagt hat, hört dann sein eigenes Echo."
+    },
+    {
+      "claim": "Bei weiter Entfernung dauert es länger, bis das Echo zurückkommt.",
+      "url": "https://klexikon.zum.de/wiki/Echo",
+      "quote": "Wenn die Wand oder das Hindernis weiter entfernt ist, dauert es länger, bis das Echo zurückkommt."
+    },
+    {
+      "claim": "Aus der Nähe hört man kein Echo.",
+      "url": "https://klexikon.zum.de/wiki/Echo",
+      "quote": "Diese Schallgeschwindigkeit ist so hoch, dass wir aus der Nähe kein Echo hören."
+    },
+    {
+      "claim": "Die Fledermaus hört zurückkommende Schwingungen.",
+      "url": "https://klexikon.zum.de/wiki/Echo",
+      "quote": "Wenn die Schwingungen gegen eine Wand oder ein Insekt stoßen und zurückkommen, dann hört das die Fledermaus."
+    }
+  ]
+}
