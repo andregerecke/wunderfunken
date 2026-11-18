@@ -1,0 +1,87 @@
+{
+  "issueDate": "2026-11-18",
+  "post": {
+    "id": "issue-2026-11-18",
+    "slug": "buecher-leihen-statt-kaufen",
+    "title": "Wie leiht man ein Buch aus?",
+    "teaser": "In der Bücherei stehen ganz viele Bücher. Dürfen wir eins mit nach Hause nehmen?",
+    "concept": "In einer Bibliothek teilen viele Menschen ihre Bücher: Man leiht sie für eine Zeit aus und gibt sie dann zurück",
+    "world": "alltag",
+    "topics": ["Bibliothek", "Bücherei", "Bücher", "Ausleihen", "Teilen"],
+    "stem": {
+      "isStem": false,
+      "reason": "Das Konzept gehört zum Alltag und zum Miteinander, nicht zu Naturwissenschaft oder Technik."
+    },
+    "format": "loesung",
+    "minutes": 6,
+    "question": "Was glaubst du: Wie können viele Kinder dasselbe Buch lesen, ohne dass jedes eins kaufen muss?",
+    "explanation": [
+      "Eine Bibliothek ist eine Sammlung von sehr vielen Büchern. Man nennt sie auch Bücherei.",
+      "Das Problem: Nicht jeder kann sich alle Bücher kaufen. Die Lösung: Man leiht sie aus.",
+      "Mit einem Ausweis darf man eine bestimmte Anzahl Bücher mit nach Hause nehmen. Dort liest man sie in Ruhe.",
+      "Nach einiger Zeit bringt man die Bücher zurück. Dann kann das nächste Kind sie lesen. Oft darf man die Zeit verlängern, wenn kein anderer das Buch möchte."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/buecher-leihen-statt-kaufen.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein Bücherregal in der Mitte. Links trägt ein Kind drei Bücher nach Hause, rechts bringt ein anderes Kind zwei Bücher zurück zum Regal.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Bücher wandern hin und zurück",
+      "description": "In der Mitte steht ein Regal mit Büchern. Links geht ein Kind mit drei Büchern im Arm zu einem Haus. Rechts bringt ein anderes Kind zwei Bücher zum Regal zurück. Zwei Pfeile zeigen die Wege.",
+      "lookCloser": "Schau mal genau hin: In welche Richtung zeigt der Pfeil beim Kind mit den Büchern, und in welche beim anderen Kind?"
+    },
+    "wow": "In manchen Büchereien gibt es ein Magazin. Dort stehen Bücher, die nur selten gewünscht werden.",
+    "activity": {
+      "title": "Unsere eigene Mini-Bücherei",
+      "materials": ["drei bis fünf Bilderbücher von zu Hause", "Zettel und Stift"],
+      "steps": [
+        "Stellt eure Lieblingsbücher in einer Reihe auf, wie in einem Regal.",
+        "Malt oder schreibt für jedes Buch einen Zettel mit dem Namen und legt ihn hinein.",
+        "Leiht euch gegenseitig ein Buch aus und legt den Zettel auf das leere Plätzchen im Regal.",
+        "Lest das Buch gemeinsam und stellt es danach wieder zurück."
+      ]
+    },
+    "check": {
+      "question": "Warum bringt man ein ausgeliehenes Buch wieder zurück?",
+      "answer": "Damit auch andere Menschen es lesen können. Bücher aus der Bücherei gehören allen zusammen.",
+      "parentPrompt": "Fragt gemeinsam: Welches Buch würdet ihr gern als Nächstes ausleihen? Und was wäre, wenn niemand ein Buch zurückbrächte?"
+    },
+    "takeaway": "In der Bücherei leiht man Bücher aus und bringt sie zurück, damit alle sie lesen können.",
+    "followUp": "Welches Buch möchten wir uns als Nächstes ausleihen?",
+    "sources": [
+      {
+        "title": "Bibliothek – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Bibliothek",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-18"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Eine Bibliothek ist eine Sammlung von sehr vielen Büchern und heißt auch Bücherei.",
+      "url": "https://klexikon.zum.de/wiki/Bibliothek",
+      "quote": "Eine Bibliothek oder Bücherei ist eine Sammlung von sehr vielen Büchern."
+    },
+    {
+      "claim": "Mit einem Ausweis darf man eine bestimmte Anzahl Medien ausleihen und mitnehmen.",
+      "url": "https://klexikon.zum.de/wiki/Bibliothek",
+      "quote": "Mit seinem Benutzerausweis darf man dann eine bestimmte Anzahl an Medien ausleihen und mit nach Hause nehmen."
+    },
+    {
+      "claim": "Die Ausleihzeit kann man verlängern, wenn andere das Buch nicht lesen möchten.",
+      "url": "https://klexikon.zum.de/wiki/Bibliothek",
+      "quote": "Allerdings hängt das davon ab, ob auch andere Menschen das Buch lesen möchten."
+    },
+    {
+      "claim": "Im Magazin stehen selten gewünschte Bücher.",
+      "url": "https://klexikon.zum.de/wiki/Bibliothek",
+      "quote": "Im Magazin stehen die Bücher, die selten gewünscht werden."
+    }
+  ]
+}
