@@ -1,0 +1,87 @@
+{
+  "issueDate": "2026-11-19",
+  "post": {
+    "id": "issue-2026-11-19",
+    "slug": "flaggen-sagen-hier-sind-wir",
+    "title": "Was sagt uns eine Flagge?",
+    "teaser": "Im Wind wehen bunte Tücher an hohen Masten. Was wollen sie uns zeigen?",
+    "concept": "Eine Flagge zeigt, zu wem ein Ort oder ein Schiff gehört: Sie sagt Hier sind wir",
+    "world": "kulturen",
+    "topics": ["Flagge", "Fahne", "Farben", "Länder", "Verein"],
+    "stem": {
+      "isStem": false,
+      "reason": "Das Konzept gehört zu Kultur und Zusammenleben, nicht zu Naturwissenschaft oder Technik."
+    },
+    "format": "warum",
+    "minutes": 6,
+    "question": "Was glaubst du: Warum hängen Menschen bunte Tücher an hohe Masten?",
+    "explanation": [
+      "Eine Flagge ist ein Stück Stoff in bestimmten Farben. Sie hängt an einer Stange oder einem Mast.",
+      "Flaggen stehen für etwas. Das kann ein Land sein, eine Stadt oder ein Verein.",
+      "Wenn du irgendwo eine Flagge siehst, sagt sie oft: Hier sind wir. Das ist zum Beispiel bei Sportwettbewerben so.",
+      "Jedes Land hat seine eigenen Farben. Österreich hat zum Beispiel Streifen in Rot, Weiß und Rot."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/flaggen-sagen-hier-sind-wir.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Drei Flaggen an drei hohen Masten auf einer Wiese: eine mit Streifen in Rot, Weiß und Rot, eine mit Streifen in Schwarz, Rot und Gelb und eine blaue mit einem gelben Stern.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Drei Flaggen, drei Gruppen",
+      "description": "Drei Masten stehen nebeneinander auf einer Wiese. Links weht eine Flagge mit drei Streifen in Rot, Weiß und Rot. In der Mitte hängt eine mit Schwarz, Rot und Gelb. Rechts ist eine blaue Flagge mit einem gelben Stern.",
+      "lookCloser": "Schau mal genau hin: Welche Flagge hat einen Stern, und welche hat drei verschiedene Farben?"
+    },
+    "wow": "Beim deutschen Schwarz-Rot-Gold nennt man das Gold so, obwohl es eigentlich ein dunkleres Gelb ist.",
+    "activity": {
+      "title": "Unsere eigene Familienflagge",
+      "materials": ["ein Blatt Papier", "Buntstifte", "ein Strohhalm oder ein Stab aus Papier", "Klebeband"],
+      "steps": [
+        "Überlegt gemeinsam: Was ist uns als Familie wichtig? Zum Beispiel ein Tier, eine Farbe oder ein Ort.",
+        "Malt dazu eine Flagge mit zwei oder drei Farben und einem einfachen Zeichen.",
+        "Klebt die Flagge an den Strohhalm oder den Papierstab.",
+        "Stellt die Flagge ans Fenster und erzählt, was sie sagen soll."
+      ]
+    },
+    "check": {
+      "question": "Was will eine Flagge oft sagen?",
+      "answer": "Sie sagt oft: Hier sind wir. Sie zeigt, zu welchem Land, welcher Stadt oder welchem Verein etwas gehört.",
+      "parentPrompt": "Fragt gemeinsam: Welche Flaggen kennt ihr? Und was würde auf eurer eigenen Flagge zu sehen sein?"
+    },
+    "takeaway": "Eine Flagge steht für ein Land, eine Stadt oder einen Verein und sagt: Hier sind wir.",
+    "followUp": "Welche Flagge sehen wir als Nächstes auf unserem Weg?",
+    "sources": [
+      {
+        "title": "Flagge – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Flagge",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-19"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Flaggen stehen für ein Land, eine Stadt, einen Verein oder eine Partei.",
+      "url": "https://klexikon.zum.de/wiki/Flagge",
+      "quote": "Flaggen stehen normalerweise für etwas: für ein Land, eine Stadt, einen Verein, eine Partei und so weiter."
+    },
+    {
+      "claim": "Eine Flagge sagt oft: Hier sind wir.",
+      "url": "https://klexikon.zum.de/wiki/Flagge",
+      "quote": "Wenn man irgendwo eine Flagge sieht, soll das oft so etwas sagen wie: „Hier sind wir“."
+    },
+    {
+      "claim": "Österreich hat eine Flagge mit Streifen in Rot-Weiß-Rot.",
+      "url": "https://klexikon.zum.de/wiki/Flagge",
+      "quote": "Österreich hat eine Flagge mit Streifen in Rot-Weiß-Rot."
+    },
+    {
+      "claim": "Das Gold der deutschen Flagge ist eigentlich ein dunkleres Gelb.",
+      "url": "https://klexikon.zum.de/wiki/Flagge",
+      "quote": "Das Gold ist eigentlich ein dunkleres Gelb, aber man sagt „Gold“."
+    }
+  ]
+}
