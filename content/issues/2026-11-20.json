@@ -1,0 +1,87 @@
+{
+  "issueDate": "2026-11-20",
+  "post": {
+    "id": "issue-2026-11-20",
+    "slug": "wie-ein-regenbogen-entsteht",
+    "title": "Wie kommt der Regenbogen an den Himmel?",
+    "teaser": "Sonne und Regen zusammen zaubern bunte Farben. Aber wo muss die Sonne dafür stehen?",
+    "concept": "Ein Regenbogen entsteht, wenn Sonnenlicht auf Regentropfen trifft und in seine Farben aufgefächert wird",
+    "world": "natur",
+    "topics": ["Regenbogen", "Licht", "Farben", "Regen"],
+    "stem": {
+      "isStem": true,
+      "reason": "Das Konzept gehört zur Physik: Licht wird in Wassertropfen in seine Farben zerlegt."
+    },
+    "format": "probieren",
+    "minutes": 6,
+    "question": "Was glaubst du: Woher kommen die vielen Farben im Regenbogen?",
+    "explanation": [
+      "Manchmal regnet es, und gleichzeitig scheint die Sonne. Dann kann ein Regenbogen am Himmel stehen.",
+      "Sonnenlicht sieht für uns weiß aus. Aber in ihm stecken viele Farben, ganz fest zusammen.",
+      "Ein Regentropfen ist wie ein winziges Glas. Das Licht geht hinein und wieder hinaus. Dabei trennen sich die Farben und liegen nebeneinander.",
+      "Darum muss die Sonne hinter dir stehen. Du schaust dann auf den Regen vor dir und siehst das bunte Band."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/wie-ein-regenbogen-entsteht.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Links scheint die Sonne. Ein Kind steht mit dem Rücken zur Sonne und zeigt auf einen Regenbogen unter einer Regenwolke.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Die Sonne im Rücken",
+      "description": "Links oben scheint eine gelbe Sonne. Ein Kind steht mit dem Rücken zur Sonne und zeigt nach rechts. Dort hängt eine Regenwolke, und darunter spannt sich ein Regenbogen mit sieben Farben.",
+      "lookCloser": "Schau mal genau hin: Auf welcher Seite steht die Sonne, und welche Farbe liegt im Regenbogen ganz außen?"
+    },
+    "wow": "Die Sonnenstrahlen enthalten viele verschiedene Farben, und alle zusammen erscheinen uns weiß.",
+    "activity": {
+      "title": "Regenbogen im Garten",
+      "materials": ["Gartenschlauch oder Sprühflasche mit Wasser", "ein sonniger Tag"],
+      "steps": [
+        "Stellt euch so hin, dass die Sonne hinter euch steht.",
+        "Sprüht feines Wasser vor euch in die Luft.",
+        "Schaut auf den Nebel aus Tropfen. Seht ihr bunte Farben?",
+        "Dreht euch um, sodass die Sonne vorne steht. Was ist jetzt anders?"
+      ]
+    },
+    "check": {
+      "question": "Wo muss die Sonne stehen, wenn du einen Regenbogen sehen willst?",
+      "answer": "Die Sonne muss hinter dir stehen. Vor dir müssen Regentropfen in der Luft sein.",
+      "parentPrompt": "Fragt gemeinsam: Wann habt ihr zuletzt einen Regenbogen gesehen, und wo stand damals die Sonne?"
+    },
+    "takeaway": "Sonne hinter uns, Regen vor uns: So wird Licht zum Regenbogen.",
+    "followUp": "Wo könntest du noch kleine Wassertropfen im Sonnenlicht finden?",
+    "sources": [
+      {
+        "title": "Regenbogen – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Regenbogen",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Ein Regenbogen entsteht, wenn Lichtstrahlen auf Wassertropfen treffen, bei Regen und gleichzeitigem Sonnenschein.",
+      "url": "https://klexikon.zum.de/wiki/Regenbogen",
+      "quote": "Ein Regenbogen bildet sich, wenn Lichtstrahlen auf Wassertropfen treffen."
+    },
+    {
+      "claim": "Beim Betrachten des Regenbogens muss die Sonne hinter uns stehen.",
+      "url": "https://klexikon.zum.de/wiki/Regenbogen",
+      "quote": "Wenn wir den Regenbogen sehen, muss die Sonne hinter uns sein."
+    },
+    {
+      "claim": "Sonnenlicht enthält viele Farben und erscheint zusammen weiß.",
+      "url": "https://klexikon.zum.de/wiki/Regenbogen",
+      "quote": "Die Sonnenstrahlen enthalten viele verschiedene Farben."
+    },
+    {
+      "claim": "Alle Farben zusammen erscheinen weiß.",
+      "url": "https://klexikon.zum.de/wiki/Regenbogen",
+      "quote": "Alle zusammen erscheinen uns weiß."
+    }
+  ]
+}
