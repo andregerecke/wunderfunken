@@ -1,0 +1,87 @@
+{
+  "issueDate": "2026-11-21",
+  "post": {
+    "id": "issue-2026-11-21",
+    "slug": "der-adventskalender-zaehlt-die-tage",
+    "title": "Warum hat ein Adventskalender so viele Türchen?",
+    "teaser": "Jeden Tag geht ein Türchen auf. So wird das Warten auf Weihnachten sichtbar.",
+    "concept": "Ein Adventskalender macht Warten sichtbar: Jeden Tag zeigt er, wie viele Tage noch bis Weihnachten fehlen",
+    "world": "zeit",
+    "topics": ["Adventskalender", "Advent", "Warten", "Weihnachten"],
+    "stem": {
+      "isStem": false,
+      "reason": "Das Konzept gehört zu Geschichte und Brauchtum: Es geht um einen Brauch und seine Herkunft."
+    },
+    "format": "warum",
+    "minutes": 5,
+    "question": "Was glaubst du: Warum hat ein Adventskalender nicht nur ein einziges Türchen?",
+    "explanation": [
+      "Bald beginnt die Adventszeit. Viele Familien in Deutschland hängen dann einen Adventskalender auf. Er hilft beim Warten auf Weihnachten.",
+      "Warten ist schwer, wenn man sich freut. Die Zeit fühlt sich dann sehr lang an. Ein Kalender macht sie kleiner. Jeden Tag gibt es ein Türchen, und man sieht: Heute ist wieder ein Tag vorbei.",
+      "Der erste Kalender für Kinder wurde vor mehr als hundert Jahren gedruckt. Die Kinder klebten jeden Tag ein Bild auf. Ein Mann in Hamburg stellte schon früher jeden Tag eine Kerze auf ein Wagenrad.",
+      "Ein Adventskalender ist also eine Zählhilfe. Er zeigt, wie viele Tage noch fehlen."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/der-adventskalender-zaehlt-die-tage.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein Adventskalender mit 24 Türchen in vier Reihen. Die ersten fünf Türchen sind offen, die übrigen 19 sind noch geschlossen.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Fünf Türchen sind schon offen",
+      "description": "Ein Adventskalender hängt als großes Rechteck im Bild. Er hat 24 Türchen in vier Reihen mit je sechs Türchen. Die ersten fünf Türchen oben links sind offen, die anderen 19 sind noch zu und tragen Zahlen.",
+      "lookCloser": "Schau mal genau hin: Welche Zahl steht auf dem ersten Türchen, das noch zu ist?"
+    },
+    "wow": "Der erste gedruckte Adventskalender für Kinder hatte 24 Felder zum Aufkleben. Jeden Tag durfte man ein Bild einkleben.",
+    "activity": {
+      "title": "Unser Wartekalender",
+      "materials": ["ein Blatt Papier", "Stifte", "Klebezettel"],
+      "steps": [
+        "Überlegt euch etwas Schönes, auf das ihr euch freut.",
+        "Malt auf das Papier so viele Kästchen, wie es noch Tage bis dahin sind.",
+        "Klebt über jedes Kästchen einen Zettel.",
+        "Zieht jeden Tag einen Zettel ab. Wie viele Kästchen bleiben noch?"
+      ]
+    },
+    "check": {
+      "question": "Wozu ist ein Adventskalender da?",
+      "answer": "Er zählt die Tage bis Weihnachten. So sieht man jeden Tag, wie lange es noch dauert.",
+      "parentPrompt": "Fragt gemeinsam: Worauf habt ihr euch schon einmal lange gefreut, und was hat beim Warten geholfen?"
+    },
+    "takeaway": "Ein Adventskalender zählt die Tage, bis das Fest da ist.",
+    "followUp": "Worauf freust du dich gerade am meisten?",
+    "sources": [
+      {
+        "title": "Adventskalender – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Adventskalender",
+        "publisher": "Wikipedia",
+        "checkedAt": "2026-11-21"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Der Adventskalender war zunächst vor allem Zählhilfe und Zeitmesser.",
+      "url": "https://de.wikipedia.org/wiki/Adventskalender",
+      "quote": "Zunächst war der Adventskalender vor allem Zählhilfe und Zeitmesser."
+    },
+    {
+      "claim": "Der erste gedruckte Kalender bestand aus 24 Bildern zum Aufkleben, die Kinder klebten täglich eins ein.",
+      "url": "https://de.wikipedia.org/wiki/Adventskalender",
+      "quote": "Er bestand aus einem Bogen mit 24 Bildern zum Ausschneiden und einem Bogen mit 24 Feldern zum Aufkleben."
+    },
+    {
+      "claim": "Wichern stellte pro Tag eine Kerze auf ein Wagenrad.",
+      "url": "https://de.wikipedia.org/wiki/Adventskalender",
+      "quote": "Er stellte pro Tag eine Kerze auf ein Wagenrad, für jeden Adventssonntag eine dickere."
+    },
+    {
+      "claim": "Der Kalender zeigt die verbleibenden Tage bis Weihnachten an.",
+      "url": "https://de.wikipedia.org/wiki/Adventskalender",
+      "quote": "zeigt jedoch in der Regel die verbleibenden Tage bis Weihnachten an."
+    }
+  ]
+}
