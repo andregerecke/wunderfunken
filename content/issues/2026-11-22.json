@@ -1,0 +1,82 @@
+{
+  "issueDate": "2026-11-22",
+  "post": {
+    "id": "issue-2026-11-22",
+    "slug": "schneeflocken-haben-sechs-arme",
+    "title": "Wie viele Arme hat eine Schneeflocke?",
+    "teaser": "Schneekristalle sehen aus wie kleine Sterne. Zähle ihre Arme und male selbst eine.",
+    "concept": "Schneekristalle wachsen aus Eis immer mit sechs Ecken oder Armen, und kaum zwei sind genau gleich",
+    "world": "natur",
+    "topics": ["Schnee", "Schneeflocke", "Eiskristall", "Winter"],
+    "stem": {
+      "isStem": true,
+      "reason": "Das Konzept gehört zu Natur und Physik: Es geht darum, wie Eis zu Kristallen mit sechs Armen wächst."
+    },
+    "format": "probieren",
+    "minutes": 5,
+    "question": "Was glaubst du: Wie viele Arme hat ein Schneestern?",
+    "explanation": [
+      "Bald kann es schneien. Schnee besteht aus winzigen Eiskristallen. Viele sehen aus wie kleine Sterne.",
+      "Schau genau hin, wenn du einen Schneestern auf dem Handschuh siehst. Er hat sechs Arme. Nicht fünf und nicht acht. Immer sechs.",
+      "Das liegt an den Wassermolekülen. Das sind die winzigen Bausteine des Wassers. Sie passen im Eis nur in bestimmten Winkeln aneinander. So wächst der Stern in sechs Richtungen.",
+      "An jedem Arm wachsen kleine Zweige. Auf seinem Weg nach unten wächst jeder Stern ein wenig anders. Darum sind große Schneesterne fast nie gleich."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/schneeflocken-haben-sechs-arme.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein großer Schneestern mit sechs Armen auf blauem Grund. Jeder Arm hat zwei Paar kleine Zweige. Rechts und links liegen zwei kleinere Schneesterne, ebenfalls mit sechs Armen.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Sechs Arme, immer sechs",
+      "description": "Ein großer weißer Schneestern steht in der Mitte des Bildes. Er hat sechs Arme, und an jedem Arm sitzen zwei Paar Zweige. Links und rechts davon sind zwei kleinere Schneesterne, auch sie haben sechs Arme.",
+      "lookCloser": "Schau mal genau hin: Haben die kleinen Sterne auch sechs Arme?"
+    },
+    "wow": "Ein Schneestern wiegt weniger als ein Sandkorn. Und doch hat er sechs Arme mit vielen kleinen Zweigen.",
+    "activity": {
+      "title": "Wir malen einen Schneestern",
+      "materials": ["ein Blatt Papier", "ein Stift", "ein Lineal"],
+      "steps": [
+        "Malt einen Punkt in die Mitte des Blattes.",
+        "Zieht von dem Punkt sechs gleich lange Striche nach außen, wie bei einem Stern.",
+        "Malt an jeden Strich zwei Paar kleine Zweige, auf allen sechs Armen gleich.",
+        "Malt einen zweiten Stern. Wird er genau gleich wie der erste, oder ein bisschen anders?"
+      ]
+    },
+    "check": {
+      "question": "Wie viele Arme hat ein Schneestern?",
+      "answer": "Ein Schneestern hat sechs Arme. Das liegt daran, wie die Wassermoleküle im Eis zusammenpassen.",
+      "parentPrompt": "Fragt gemeinsam: Wo habt ihr schon einmal eine Form mit sechs Ecken gesehen, zum Beispiel bei Waben?"
+    },
+    "takeaway": "Ein Schneestern hat immer sechs Arme, und kaum zwei sind gleich.",
+    "followUp": "Welche Form fällt dir im Winter noch auf?",
+    "sources": [
+      {
+        "title": "Schneeflocke – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Schneeflocke",
+        "publisher": "Wikipedia",
+        "checkedAt": "2026-11-22"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Beim Wachsen der Schneekristalle bilden sich sechseckige Formen.",
+      "url": "https://de.wikipedia.org/wiki/Schneeflocke",
+      "quote": "Es bilden sich die bekannten sechseckigen Formen aus."
+    },
+    {
+      "claim": "Wegen der Struktur der Wassermoleküle sind nur Winkel von 60° oder 120° möglich.",
+      "url": "https://de.wikipedia.org/wiki/Schneeflocke",
+      "quote": "Wegen der besonderen Struktur der Wassermoleküle sind dabei nur Winkel von exakt 60° oder 120° möglich."
+    },
+    {
+      "claim": "Es gibt sehr wahrscheinlich keine zwei gleichen komplexen Schneekristalle.",
+      "url": "https://de.wikipedia.org/wiki/Schneeflocke",
+      "quote": "Mit hoher Wahrscheinlichkeit gibt es und gab es noch nie zwei komplexe Schneekristalle, die exakt gleich waren."
+    }
+  ]
+}
