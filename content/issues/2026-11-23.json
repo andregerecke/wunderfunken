@@ -1,0 +1,77 @@
+{
+  "issueDate": "2026-11-23",
+  "post": {
+    "id": "issue-2026-11-23",
+    "slug": "entschuldigen-und-verzeihen",
+    "title": "Was passiert, wenn man Entschuldigung sagt?",
+    "teaser": "Ein Streit tut weh. Mit einer Entschuldigung kann man etwas wieder gut machen.",
+    "concept": "Eine Entschuldigung zeigt, dass einem etwas leid tut, und der andere darf selbst entscheiden, ob er sie annimmt",
+    "world": "miteinander",
+    "topics": ["Entschuldigung", "Verzeihen", "Streit", "Miteinander"],
+    "stem": {
+      "isStem": false,
+      "reason": "Das Konzept gehört zum Miteinander und zu den Umgangsformen, nicht zu Naturwissenschaft oder Technik."
+    },
+    "format": "warum",
+    "minutes": 6,
+    "question": "Was glaubst du: Was kann man tun, wenn man jemandem aus Versehen wehgetan hat?",
+    "explanation": [
+      "Manchmal passiert etwas Dummes. Du stößt jemanden an. Oder du sagst ein böses Wort. Der andere ist traurig oder wütend.",
+      "Dann hilft eine Entschuldigung. Sie gehört zu den Umgangsformen. Du sagst damit: Es tut mir leid. Du zeigst, dass dir der andere wichtig ist.",
+      "Eine gute Entschuldigung sagt, was passiert ist. Zum Beispiel: Es tut mir leid, dass ich dich geschubst habe.",
+      "Der andere entscheidet selbst. Er kann die Entschuldigung annehmen. Er kann auch noch etwas Zeit brauchen. Nimmt er sie an, ist die Sache meistens erledigt."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/entschuldigen-und-verzeihen.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Zwei Kinder stehen sich gegenüber. Das linke Kind hält ein rotes Herz hin, das rechte Kind streckt die Hand danach aus. Über dem rechten Kind scheint eine kleine Sonne.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Ein Herz zum Wiedergutmachen",
+      "description": "Zwei Kinder stehen sich auf einer Wiese gegenüber. Das linke Kind hält ein rotes Herz hin. Das rechte Kind streckt die Hand aus, um es zu nehmen. Über den beiden scheint eine Sonne.",
+      "lookCloser": "Schau mal genau hin: Welches Kind hält das Herz, und welches Kind nimmt es?"
+    },
+    "wow": "Das Wort Entschuldigung bedeutet eigentlich: Man wird die Schuld los.",
+    "activity": {
+      "title": "Wir üben Entschuldigen",
+      "materials": ["zwei Kuscheltiere"],
+      "steps": [
+        "Spielt mit den Kuscheltieren: Eines stößt das andere aus Versehen um.",
+        "Lasst es sagen, was passiert ist und dass es ihm leid tut.",
+        "Das andere Kuscheltier darf frei antworten: Ja, ich nehme das an. Oder: Ich brauche noch einen Moment.",
+        "Tauscht die Rollen und spielt es noch einmal."
+      ]
+    },
+    "check": {
+      "question": "Wer entscheidet, ob eine Entschuldigung angenommen wird?",
+      "answer": "Der andere entscheidet. Er kann die Entschuldigung annehmen oder noch etwas Zeit brauchen.",
+      "parentPrompt": "Fragt gemeinsam: Wann hat sich zuletzt jemand bei euch entschuldigt, und was hat euch dabei geholfen?"
+    },
+    "takeaway": "Eine Entschuldigung sagt: Es tut mir leid. Der andere darf selbst entscheiden, wann er verzeiht.",
+    "followUp": "Wem möchtest du einmal etwas Nettes sagen?",
+    "sources": [
+      {
+        "title": "Entschuldigung – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Entschuldigung",
+        "publisher": "Wikipedia",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Eine Entschuldigung ist wörtlich eine Schuldbefreiung und gehört zu den Umgangsformen.",
+      "url": "https://de.wikipedia.org/wiki/Entschuldigung",
+      "quote": "Eine Entschuldigung ist im Wortsinne eine Schuldbefreiung, die zu den Umgangsformen gehört."
+    },
+    {
+      "claim": "Der Geschädigte kann die Entschuldigung annehmen oder ablehnen.",
+      "url": "https://de.wikipedia.org/wiki/Entschuldigung",
+      "quote": "Der Geschädigte kann die Entschuldigung annehmen oder ablehnen."
+    }
+  ]
+}
