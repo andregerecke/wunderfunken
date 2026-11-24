@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img"><title>Schuhe vor der Tür</title>
+<rect x="0" y="0" width="1200" height="800" fill="#D6E4F0"/>
+<circle cx="120" cy="110" r="9" fill="#FFFFFF"/><circle cx="300" cy="70" r="9" fill="#FFFFFF"/><circle cx="520" cy="140" r="9" fill="#FFFFFF"/><circle cx="900" cy="90" r="9" fill="#FFFFFF"/><circle cx="1080" cy="150" r="9" fill="#FFFFFF"/><circle cx="1000" cy="260" r="9" fill="#FFFFFF"/><circle cx="180" cy="250" r="9" fill="#FFFFFF"/>
+<rect x="260" y="80" width="460" height="560" rx="20" fill="#8A5A34"/>
+<rect x="290" y="110" width="400" height="500" rx="12" fill="#B07B4A"/>
+<circle cx="650" cy="370" r="16" fill="#F2C230"/>
+<path d="M0 640 H1200 V800 H0Z" fill="#F4F8FB"/>
+<rect x="230" y="630" width="520" height="30" rx="8" fill="#6E4A2C"/>
+<g id="s1"><path d="M300 620 Q300 540 350 540 L390 540 Q395 590 440 600 Q460 610 460 620Z" fill="#3F78B5"/><rect x="300" y="612" width="160" height="14" rx="6" fill="#243E35"/><circle cx="350" cy="528" r="14" fill="#C9A36B"/><circle cx="378" cy="522" r="14" fill="#C9A36B"/><circle cx="364" cy="508" r="13" fill="#D2483A"/></g>
+<g><path d="M480 620 Q480 540 530 540 L570 540 Q575 590 620 600 Q640 610 640 620Z" fill="#D2483A"/><rect x="480" y="612" width="160" height="14" rx="6" fill="#243E35"/><circle cx="530" cy="528" r="14" fill="#C9A36B"/><circle cx="558" cy="522" r="14" fill="#C9A36B"/><circle cx="544" cy="508" r="13" fill="#7FB069"/></g>
+<g><path d="M660 620 Q660 540 710 540 L750 540 Q755 590 800 600 Q820 610 820 620Z" fill="#F2C230"/><rect x="660" y="612" width="160" height="14" rx="6" fill="#243E35"/><circle cx="710" cy="528" r="14" fill="#C9A36B"/><circle cx="738" cy="522" r="14" fill="#C9A36B"/><circle cx="724" cy="508" r="13" fill="#D2483A"/></g>
+<ellipse cx="980" cy="700" rx="130" ry="30" fill="#FFFFFF"/><ellipse cx="980" cy="690" rx="100" ry="20" fill="#E9DFC9"/>
+<circle cx="940" cy="682" r="18" fill="#C9A36B"/><circle cx="985" cy="676" r="18" fill="#C9A36B"/><circle cx="1030" cy="682" r="18" fill="#C9A36B"/>
+</svg>

@@ -1,0 +1,87 @@
+{
+  "issueDate": "2026-11-24",
+  "post": {
+    "id": "issue-2026-11-24",
+    "slug": "nikolaus-und-die-geputzten-schuhe",
+    "title": "Warum stellen Kinder Schuhe für Nikolaus raus?",
+    "teaser": "Am 6. Dezember füllt der Nikolaus Schuhe mit kleinen Geschenken. Woher kommt das?",
+    "concept": "Der Nikolaustag erinnert an einen Bischof namens Nikolaus, und Kinder stellen am Abend davor Schuhe für kleine Geschenke bereit",
+    "world": "kulturen",
+    "topics": ["Nikolaus", "Nikolaustag", "Brauch", "Dezember"],
+    "stem": {
+      "isStem": false,
+      "reason": "Kulturthema: Es geht um einen Brauch und eine alte Überlieferung."
+    },
+    "format": "probieren",
+    "minutes": 6,
+    "question": "Was glaubst du: Wer war eigentlich der Nikolaus, den wir im Dezember feiern?",
+    "explanation": [
+      "Bald ist der 6. Dezember. Das ist der Nikolaustag. Er erinnert an einen Mann namens Nikolaus.",
+      "Nikolaus war ein Bischof. Er lebte vor etwa 1700 Jahren in Myra. Das liegt im heutigen Land Türkei.",
+      "Viele Geschichten erzählen, dass er armen Menschen geholfen hat. Genau weiß man nur wenig über sein Leben.",
+      "Darum gibt es einen Brauch. Am Abend davor stellen Kinder Teller, Strümpfe oder Schuhe vor die Tür. In der Nacht legt der Nikolaus kleine Geschenke hinein, meistens Nüsse und Süßigkeiten."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/nikolaus-und-die-geputzten-schuhe.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Vor einer Tür stehen drei saubere Schuhe in einer Reihe. Aus jedem Schuh schauen Nüsse und ein Apfel. Daneben steht ein Teller mit Nüssen. Draußen schneit es.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Schuhe vor der Tür",
+      "description": "Drei Schuhe stehen nebeneinander vor einer Tür. In jedem Schuh liegen kleine Geschenke. Neben den Schuhen steht ein Teller mit drei Nüssen.",
+      "lookCloser": "Schau mal genau hin: Wie viele Schuhe stehen vor der Tür, und was liegt in ihnen?"
+    },
+    "wow": "Der Nikolaus soll vor etwa 1700 Jahren gelebt haben. Seinen Gedenktag feiern wir bis heute am 6. Dezember.",
+    "activity": {
+      "title": "Schuhe bereitstellen",
+      "materials": ["ein Paar Schuhe", "ein feuchtes Tuch"],
+      "steps": [
+        "Holt ein Paar Schuhe aus dem Flur.",
+        "Wischt sie zusammen mit dem feuchten Tuch sauber.",
+        "Stellt die Schuhe nebeneinander an die Tür.",
+        "Überlegt zusammen: Wem könntet ihr etwas Kleines schenken?"
+      ]
+    },
+    "check": {
+      "question": "Was stellen Kinder am Abend vor dem Nikolaustag bereit?",
+      "answer": "Sie stellen Teller, Strümpfe oder Schuhe auf, und der Nikolaus füllt sie in der Nacht.",
+      "parentPrompt": "Sprecht darüber, wie ihr den Nikolaustag feiert. Nikolaus war ein Bischof, von dem man Geschichten erzählt. Der Brauch, wie Geschenke in die Schuhe kommen, ist eine Tradition."
+    },
+    "takeaway": "Am Nikolaustag denken wir an einen Bischof, der anderen half.",
+    "followUp": "Wem würdest du gern etwas Kleines schenken?",
+    "sources": [
+      {
+        "title": "Nikolaus – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Nikolaus",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Nikolaus von Myra lebte etwa um das Jahr 300.",
+      "url": "https://klexikon.zum.de/wiki/Nikolaus",
+      "quote": "Der Heilige Nikolaus hieß mit vollem Namen Nikolaus von Myra und lebte etwa um das Jahr 300 nach Christus."
+    },
+    {
+      "claim": "Der Gedenktag ist der 6. Dezember.",
+      "url": "https://klexikon.zum.de/wiki/Nikolaus",
+      "quote": "Sein Geburtstag soll der 6. Dezember gewesen sein."
+    },
+    {
+      "claim": "Kinder bekommen kleine Geschenke, meistens Nüsse und Süßigkeiten.",
+      "url": "https://klexikon.zum.de/wiki/Nikolaus",
+      "quote": "In Deutschland, Österreich und der Schweiz bekommen die Kinder kleine Geschenke, meistens Nüsse und Süßigkeiten."
+    },
+    {
+      "claim": "Kinder stellen Teller, Strümpfe oder Schuhe auf.",
+      "url": "https://klexikon.zum.de/wiki/Nikolaus",
+      "quote": "Dazu stellen sie am Abend vor dem Nikolaustag Teller, Strümpfe oder Schuhe auf."
+    }
+  ]
+}
