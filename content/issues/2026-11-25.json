@@ -1,0 +1,97 @@
+{
+  "issueDate": "2026-11-25",
+  "post": {
+    "id": "issue-2026-11-25",
+    "slug": "wasser-wird-zu-eis",
+    "title": "Wie wird aus Wasser Eis?",
+    "teaser": "Im Winter hängen Eiszapfen am Dach. Was passiert da mit dem Wasser?",
+    "concept": "Wasser gefriert bei Kälte zu Eis, normalerweise erst bei null Grad Celsius, und so entstehen zum Beispiel Eiszapfen",
+    "world": "erde",
+    "topics": [
+      "Eis",
+      "Wasser",
+      "Eiszapfen",
+      "Frost",
+      "Winter"
+    ],
+    "stem": {
+      "isStem": true,
+      "reason": "Physik und Natur: Es geht darum, wie Wasser bei Kälte fest wird."
+    },
+    "format": "warum",
+    "minutes": 6,
+    "question": "Was glaubst du: Wie kommen die langen Eiszapfen an das Dach?",
+    "explanation": [
+      "Wasser kann flüssig sein. Es läuft und tropft. Wasser kann aber auch fest sein. Dann nennen wir es Eis.",
+      "Wasser wird fest, wenn es richtig kalt wird. Normalerweise passiert das bei null Grad Celsius. Dann gefriert es.",
+      "Ein Eiszapfen entsteht so: Wasser läuft tropfenweise am Dach herunter. Draußen ist es kalt. Die Tropfen gefrieren, und der Zapfen wird Stück für Stück länger.",
+      "Das kennst du vielleicht von einer Pfütze. Im Winter wird sie hart und glatt. Wird es wieder wärmer, wird das Eis wieder zu Wasser."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/wasser-wird-zu-eis.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Am Rand eines Hausdachs hängen fünf Eiszapfen. Darunter liegt eine Pfütze, die in der Mitte zugefroren ist. Von einem Zapfen fällt ein Tropfen.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Zapfen und Pfütze",
+      "description": "Am Dachrand hängen fünf Eiszapfen, einige lang und einige kurz. Darunter liegt eine Pfütze mit einer Eisfläche in der Mitte.",
+      "lookCloser": "Schau mal genau hin: Wie viele Eiszapfen hängen am Dach, und welcher ist am längsten?"
+    },
+    "wow": "Salzwasser friert erst, wenn es noch etwas kälter ist als null Grad. Darum gefriert das Meer nicht so leicht wie eine Pfütze.",
+    "activity": {
+      "title": "Wasser in der Kälte beobachten",
+      "materials": [
+        "ein flacher Teller",
+        "etwas Wasser",
+        "ein Gefrierfach oder ein kalter Balkon"
+      ],
+      "steps": [
+        "Füllt den Teller ein Stück weit mit Wasser.",
+        "Stellt ihn ins Gefrierfach oder an einen kalten Platz draußen.",
+        "Schaut nach ein paar Stunden nach. Wie fühlt sich das Wasser jetzt an?",
+        "Lasst den Teller drinnen stehen und schaut, was mit dem Eis passiert."
+      ]
+    },
+    "check": {
+      "question": "Was passiert mit Wasser, wenn es richtig kalt wird?",
+      "answer": "Es wird fest und heißt dann Eis. Normalerweise gefriert es bei null Grad Celsius.",
+      "parentPrompt": "Fragt nach: Wo habt ihr im Winter schon Eis gesehen? Auf Pfützen, an Dächern oder am Fenster? Das Eis kann auch wieder zu Wasser werden, wenn es wärmer wird."
+    },
+    "takeaway": "Wenn es kalt genug wird, wird Wasser fest und heißt Eis.",
+    "followUp": "Wo hast du im Winter schon Eis entdeckt?",
+    "sources": [
+      {
+        "title": "Eis – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Eis",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Eiszapfen entstehen, wenn Wasser tropfenweise herunterläuft und gefriert.",
+      "url": "https://klexikon.zum.de/wiki/Eis",
+      "quote": "Sie entstehen, wenn tropfenweise Wasser herunterläuft und gefriert."
+    },
+    {
+      "claim": "Wasser gefriert normalerweise bei null Grad Celsius.",
+      "url": "https://klexikon.zum.de/wiki/Eis",
+      "quote": "Normalerweise gefriert Wasser erst, wenn die Temperaturen auf Null Grad Celsius sinken."
+    },
+    {
+      "claim": "Salzwasser friert erst bei etwas weniger als null Grad.",
+      "url": "https://klexikon.zum.de/wiki/Eis",
+      "quote": "Salzwasser friert erst, wenn es noch etwas kälter ist als Null Grad."
+    },
+    {
+      "claim": "Eis ist gefrorenes Wasser.",
+      "url": "https://klexikon.zum.de/wiki/Eis",
+      "quote": "Eis ist gefrorenes Wasser."
+    }
+  ]
+}
