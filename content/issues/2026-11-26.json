@@ -1,0 +1,87 @@
+{
+  "issueDate": "2026-11-26",
+  "post": {
+    "id": "issue-2026-11-26",
+    "slug": "bilder-als-schrift",
+    "title": "Können Bilder eine Schrift sein?",
+    "teaser": "Die alten Ägypter schrieben mit kleinen Bildern. Wie kann man mit Bildern ein Wort aufschreiben?",
+    "concept": "Hieroglyphen sind Schrift aus kleinen Bildern: Ein Bildzeichen kann für einen Laut, eine Silbe oder ein ganzes Wort stehen",
+    "world": "sprache",
+    "topics": ["Hieroglyphen", "Schrift", "Ägypten", "Bilder", "Zeichen"],
+    "stem": {
+      "isStem": false,
+      "reason": "Sprache und Kultur: Es geht um Schrift und Zeichen, nicht um Naturwissenschaft."
+    },
+    "format": "probieren",
+    "minutes": 6,
+    "question": "Was glaubst du: Wie kann man mit Bildern ein Wort aufschreiben?",
+    "explanation": [
+      "Vor über 5000 Jahren lebten die alten Ägypter. Sie schrieben mit kleinen Bildern. Diese Schrift heißt Hieroglyphen.",
+      "Ein Bild kann ein ganzes Wort sein. Ein Bild von der Sonne bedeutet dann Sonne.",
+      "Ein Bild kann aber auch nur für einen Laut oder eine Silbe stehen. Dann setzt man mehrere Bilder zu einem Wort zusammen.",
+      "Das ist ein bisschen wie ein Rätsel. Die Ägypter ritzten ihre Zeichen oft in Stein."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/bilder-als-schrift.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Eine Steintafel mit drei Bildzeichen nebeneinander: eine Sonne, drei Wellenlinien und ein Haus. Rechts daneben steht eine Palme.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Die Steintafel",
+      "description": "Auf einer Steintafel stehen drei Bildzeichen: eine Sonne mit acht Strahlen, drei Wellenlinien für Wasser und ein Haus. Neben der Tafel steht eine Palme.",
+      "lookCloser": "Schau mal genau hin: Welches Bild auf der Tafel hat Strahlen, und welches hat ein Dach?"
+    },
+    "wow": "Die Ägypter nannten ihre Schrift selbst „Schrift der Gottesworte“. Sie hielten die Zeichen für heilig.",
+    "activity": {
+      "title": "Wörter in Bildern",
+      "materials": ["ein Blatt Papier", "ein Stift"],
+      "steps": [
+        "Überlegt euch ein einfaches Wort, zum Beispiel Sonne, Haus oder Baum.",
+        "Malt für das Wort ein kleines Bild auf das Papier.",
+        "Malt noch zwei weitere Wörter als Bilder und lasst die anderen raten.",
+        "Schreibt dann eine kurze Bilder-Nachricht für die Familie. Wer kann sie lesen?"
+      ]
+    },
+    "check": {
+      "question": "Wofür kann ein Bildzeichen in den Hieroglyphen stehen?",
+      "answer": "Für einen Laut, für eine Silbe oder für ein ganzes Wort.",
+      "parentPrompt": "Fragt nach: Welches Bild habt ihr für euer Wort gemalt? Konnte der andere es erraten? So ähnlich lasen die alten Ägypter ihre Zeichen."
+    },
+    "takeaway": "Mit kleinen Bildern kann man eine Schrift bauen, und so schrieben die alten Ägypter.",
+    "followUp": "Welches Wort würdest du am liebsten als Bild aufmalen?",
+    "sources": [
+      {
+        "title": "Hieroglyphen – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Hieroglyphen",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-26"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Die alten Ägypter schrieben vor über 5000 Jahren mit Hieroglyphen.",
+      "url": "https://klexikon.zum.de/wiki/Hieroglyphen",
+      "quote": "Die alten Ägypter schrieben schon vor über 5000 Jahren mit Hieroglyphen."
+    },
+    {
+      "claim": "Ein Bild kann für einen Laut, eine Silbe oder ein ganzes Wort stehen.",
+      "url": "https://klexikon.zum.de/wiki/Hieroglyphen",
+      "quote": "Ein solches Bild kann für einen Laut, eine Silbe oder ein ganzes Wort stehen."
+    },
+    {
+      "claim": "Die Ägypter nannten ihre Schrift Schrift der Gottesworte.",
+      "url": "https://klexikon.zum.de/wiki/Hieroglyphen",
+      "quote": "Die alten Ägypter selbst nannten ihre Schrift die „Schrift der Gottesworte“."
+    },
+    {
+      "claim": "Die Zeichen wurden meist in Stein geritzt oder gemeißelt.",
+      "url": "https://klexikon.zum.de/wiki/Hieroglyphen",
+      "quote": "Es sind also heilige Zeichen, meist in Stein geritzt oder gemeißelt."
+    }
+  ]
+}
