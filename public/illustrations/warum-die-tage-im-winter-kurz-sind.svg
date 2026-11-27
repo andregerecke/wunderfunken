@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img"><title>Der Weg der Sonne im Sommer und im Winter</title>
+<rect x="0" y="0" width="1200" height="800" fill="#CFE6E4"/>
+<rect x="0" y="0" width="1200" height="800" fill="#FBE3BE" opacity=".35"/>
+<path d="M120 560 Q600 -40 1080 560" fill="none" stroke="#F6B93B" stroke-width="8" stroke-linecap="round" stroke-dasharray="4 18"/>
+<path d="M300 560 Q600 360 900 560" fill="none" stroke="#5EA7BE" stroke-width="8" stroke-linecap="round" stroke-dasharray="4 18"/>
+<circle cx="600" cy="262" r="87" fill="#F6B93B" opacity=".25"/>
+<circle cx="600" cy="262" r="60" fill="#F6B93B"/>
+<circle cx="600" cy="412" r="87" fill="#FFFFFF" opacity=".35"/>
+<circle cx="600" cy="412" r="46" fill="#FFFFFF"/>
+<circle cx="600" cy="412" r="34" fill="#F2C230"/>
+<path d="M0 560 Q300 510 620 550 T1200 540 V800 H0Z" fill="#A9CB84"/>
+<rect x="520" y="560" width="160" height="110" rx="10" fill="#F3A6A0"/>
+<polygon points="500,566 600,486 700,566" fill="#DF693E"/>
+<rect x="580" y="600" width="40" height="70" rx="6" fill="#7E5A3C"/>
+<rect x="540" y="590" width="30" height="30" rx="4" fill="#FFF9EC"/>
+<rect x="630" y="590" width="30" height="30" rx="4" fill="#FFF9EC"/>
+<rect x="156" y="500" width="28" height="100" rx="8" fill="#8A5A34"/>
+<ellipse cx="170" cy="450" rx="78" ry="76" fill="#5E9A4B"/>
+<rect x="1016" y="500" width="28" height="100" rx="8" fill="#8A5A34"/>
+<ellipse cx="1030" cy="450" rx="78" ry="76" fill="#5E9A4B"/>
+<path d="M620 720 L780 720" fill="none" stroke="#7E5A3C" stroke-width="0"/>
+<circle cx="140" cy="150" r="26" fill="#F6B93B"/>
+<path d="M140 100 L140 84 M140 200 L140 216 M90 150 L74 150 M190 150 L206 150" fill="none" stroke="#F6B93B" stroke-width="8" stroke-linecap="round"/>
+<circle cx="1060" cy="150" r="26" fill="#FFFFFF"/>
+<circle cx="1060" cy="150" r="17" fill="#F2C230"/>
+<path d="M1030 110 L1010 90 M1090 110 L1110 90 M1060 198 L1060 218" fill="none" stroke="#5EA7BE" stroke-width="8" stroke-linecap="round"/>
+</svg>

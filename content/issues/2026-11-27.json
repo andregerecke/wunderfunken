@@ -1,0 +1,87 @@
+{
+  "issueDate": "2026-11-27",
+  "post": {
+    "id": "issue-2026-11-27",
+    "slug": "warum-die-tage-im-winter-kurz-sind",
+    "title": "Warum wird es im Winter so früh dunkel?",
+    "teaser": "Im Sommer ist es lange hell, im Winter nicht. Was macht die Sonne anders?",
+    "concept": "Die Erdachse steht schief, deshalb scheint die Sonne im Winter flacher auf uns und die Tage sind kürzer",
+    "world": "erde",
+    "topics": ["Winter", "Sonne", "Jahreszeiten", "Erdachse", "Tag und Nacht"],
+    "stem": {
+      "isStem": true,
+      "reason": "Astronomie: Es geht um die Erde, die Sonne und die schiefe Erdachse."
+    },
+    "format": "warum",
+    "minutes": 6,
+    "question": "Was glaubst du: Warum ist es im Winter schon am Nachmittag dunkel?",
+    "explanation": [
+      "Die Erde wandert in einem großen Kreis um die Sonne. Dabei dreht sie sich um eine gedachte Linie, die Erdachse.",
+      "Diese Achse steht schief. Darum scheint die Sonne im Winter flacher auf uns. Sie steht tief am Himmel.",
+      "Die Sonne braucht dann nur einen kleinen Bogen über den Himmel. Deshalb geht sie spät auf und früh unter.",
+      "Um den 21. Dezember sind die Tage am kürzesten. Danach werden sie wieder länger."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/warum-die-tage-im-winter-kurz-sind.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Ein Haus zwischen zwei Bäumen. Über dem Haus ein hoher Bogen mit einer großen Sonne und darunter ein niedriger Bogen mit einer kleinen blassen Sonne.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Der Weg der Sonne",
+      "description": "Über einem Haus mit zwei Bäumen zeigt ein hoher Bogen den Weg der Sonne im Sommer. Darunter zeigt ein niedriger, kurzer Bogen den Weg im Winter.",
+      "lookCloser": "Schau mal genau hin: Welcher Bogen ist höher und länger, und welcher ist niedriger und kürzer?"
+    },
+    "wow": "Am kürzesten Tag ist es noch nicht am kältesten. Die Sonne braucht Zeit, und die Kälte kommt meist erst im Januar.",
+    "activity": {
+      "title": "Wann wird es dunkel?",
+      "materials": ["ein Blatt Papier", "ein Stift", "ein Fenster"],
+      "steps": [
+        "Schaut heute am späten Nachmittag aus dem Fenster. Ist es noch hell?",
+        "Schreibt auf, wann es draußen dunkel wird. Schaut dabei nie in die Sonne.",
+        "Malt zwei Bögen aufs Papier: einen hohen für den Sommer und einen niedrigen für den Winter.",
+        "Schaut in einer Woche noch einmal. Wird es früher oder später dunkel?"
+      ]
+    },
+    "check": {
+      "question": "Warum sind die Tage im Winter kürzer als im Sommer?",
+      "answer": "Die Erdachse steht schief. Im Winter scheint die Sonne flacher auf uns, steht tief und ist nur kurz am Himmel.",
+      "parentPrompt": "Fragt nach: Wo steht die Sonne im Winter, eher hoch oder eher tief? Und was passiert nach dem 21. Dezember mit den Tagen?"
+    },
+    "takeaway": "Die Erdachse steht schief, darum sind die Tage im Winter kurz.",
+    "followUp": "Was machst du gern, wenn es draußen früh dunkel wird?",
+    "sources": [
+      {
+        "title": "Jahreszeit – Klexikon",
+        "url": "https://klexikon.zum.de/wiki/Jahreszeit",
+        "publisher": "Klexikon",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Die Erdachse steht schief.",
+      "url": "https://klexikon.zum.de/wiki/Jahreszeit",
+      "quote": "Die Erdachse steht schief auf dieser Umlaufbahn."
+    },
+    {
+      "claim": "Im Winter scheint die Sonne flacher auf die Nordhalbkugel.",
+      "url": "https://klexikon.zum.de/wiki/Jahreszeit",
+      "quote": "In unseren Wintermonaten scheint die Sonne flacher auf die Nordhalbkugel"
+    },
+    {
+      "claim": "Um den 21. Dezember sind die Tage am kürzesten, danach werden sie länger.",
+      "url": "https://klexikon.zum.de/wiki/Jahreszeit",
+      "quote": "Dann sind bei uns die Tage am kürzesten und werden dann wieder länger."
+    },
+    {
+      "claim": "Die Kälte kommt erst später, meist im Januar.",
+      "url": "https://klexikon.zum.de/wiki/Jahreszeit",
+      "quote": "Das kommt erst danach, meist im Januar."
+    }
+  ]
+}
