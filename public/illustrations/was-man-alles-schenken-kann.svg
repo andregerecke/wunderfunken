@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img"><title>Was man alles schenken kann</title>
+<rect width="1200" height="800" fill="#F9E3E6"/>
+<rect y="620" width="1200" height="180" fill="#E9C9A0"/>
+<g transform="translate(220 0)"><rect x="-110" y="400" width="220" height="200" rx="14" fill="#3F78B5"/><rect x="-18" y="400" width="36" height="200" fill="#F2C230"/><rect x="-110" y="480" width="220" height="34" fill="#F2C230"/><path d="M0 400 C-70 330 -110 390 -40 400Z M0 400 C70 330 110 390 40 400Z" fill="#F2C230"/><circle cx="0" cy="400" r="16" fill="#DF693E"/></g>
+<g transform="translate(600 0)"><rect x="-130" y="360" width="260" height="240" rx="10" fill="#FFFFFF" stroke="#8A5A34" stroke-width="14"/><circle cx="-50" cy="440" r="34" fill="#F6B93B"/><path d="M-130 590 L-50 500 L10 560 L60 510 L130 590Z" fill="#5E9A4B"/><path d="M60 450 C30 410 30 380 60 395 C90 380 90 410 60 450Z" fill="#D2483A"/></g>
+<g transform="translate(980 0)"><path d="M0 590 C-150 480 -130 360 0 440 C130 360 150 480 0 590Z" fill="#D2483A"/><path d="M-60 440 C-60 410 -30 410 -30 440" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" opacity=".7"/></g>
+<g transform="translate(600 180)"><circle cx="0" cy="0" r="46" fill="#F6D26B" opacity=".5"/><path d="M0 24 C-50 -12 -34 -52 0 -28 C34 -52 50 -12 0 24Z" fill="#DF693E"/></g>
+</svg>

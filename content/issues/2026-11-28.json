@@ -1,0 +1,79 @@
+{
+  "issueDate": "2026-11-28",
+  "post": {
+    "id": "issue-2026-11-28",
+    "slug": "was-man-alles-schenken-kann",
+    "title": "Was kann man alles schenken?",
+    "teaser": "Ein Geschenk muss nicht in Papier stecken. Was kann man noch verschenken?",
+    "concept": "Schenken heißt, jemandem aus Freude etwas zu geben, ohne etwas zurückzuverlangen, und man kann auch Aufmerksamkeit, Vertrauen oder Liebe schenken",
+    "world": "miteinander",
+    "topics": ["Schenken", "Geschenk", "Freude", "Advent", "Geburtstag"],
+    "stem": { "isStem": false, "reason": "Es geht um Zusammenleben und Gefühle, nicht um ein naturwissenschaftliches Konzept." },
+    "format": "probieren",
+    "minutes": 6,
+    "question": "Was glaubst du: Kann man auch etwas schenken, das man gar nicht anfassen kann?",
+    "explanation": [
+      "Wer etwas schenkt, gibt es freiwillig her. Er will dafür nichts zurückhaben. Er will vor allem eine Freude machen.",
+      "Meist denken wir an ein Päckchen mit Schleife. Zum Geburtstag oder zu Weihnachten gibt es viele davon.",
+      "Man kann aber noch mehr schenken. Man kann einem Menschen seine Aufmerksamkeit schenken, wenn man gut zuhört. Man kann auch Vertrauen oder Liebe schenken.",
+      "Auch ein selbst gemaltes Bild ist ein Geschenk. Es zeigt: Ich habe an dich gedacht."
+    ],
+    "image": {
+      "status": "ready",
+      "kind": "svg",
+      "src": "/illustrations/was-man-alles-schenken-kann.svg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Auf einem Tisch stehen ein blaues Päckchen mit gelber Schleife, ein gemaltes Bild im Rahmen und ein großes rotes Herz. Über dem Bild schwebt ein kleines Herz.",
+      "origin": "Von Claude für Wunderfunken gezeichnete SVG-Illustration",
+      "title": "Drei Geschenke",
+      "description": "Drei Geschenke nebeneinander: ein Päckchen mit Schleife, ein selbst gemaltes Bild in einem Rahmen und ein großes rotes Herz für Liebe.",
+      "lookCloser": "Schau mal genau hin: Welches der drei Geschenke kann man nicht in Papier einpacken?"
+    },
+    "wow": "In vielen Ländern bringen Gäste dem Gastgeber ein kleines Geschenk mit. Das nennt man Gastgeschenk.",
+    "activity": {
+      "title": "Ein Geschenk ohne Papier",
+      "materials": ["ein Blatt Papier", "Buntstifte"],
+      "steps": [
+        "Überlegt gemeinsam: Wem wollt ihr heute eine Freude machen?",
+        "Malt für diesen Menschen ein Bild. Es muss nicht perfekt sein.",
+        "Überlegt, was ihr noch schenken könnt, zum Beispiel eine Umarmung oder eine Viertelstunde zum Vorlesen.",
+        "Gebt das Geschenk weiter und schaut, wie der andere sich freut."
+      ]
+    },
+    "check": {
+      "question": "Was kann man außer einem Päckchen noch schenken?",
+      "answer": "Man kann zum Beispiel Aufmerksamkeit, Vertrauen oder Liebe schenken, und auch ein selbst gemaltes Bild.",
+      "parentPrompt": "Fragt nach: Was hast du schon einmal geschenkt bekommen, das man nicht einpacken konnte? Wie hat sich das angefühlt?"
+    },
+    "takeaway": "Schenken heißt, anderen eine Freude zu machen. Das geht auch ohne Päckchen.",
+    "followUp": "Wem möchtest du bald eine Freude machen?",
+    "sources": [
+      {
+        "title": "Geschenk – Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Geschenk",
+        "publisher": "Wikipedia",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "version": 1,
+    "isSeed": false
+  },
+  "claims": [
+    {
+      "claim": "Beim Schenken will der Schenkende dem anderen uneigennützig eine Freude bereiten.",
+      "url": "https://de.wikipedia.org/wiki/Geschenk",
+      "quote": "In diesem Fall will der Schenkende dem Beschenkten uneigennützig eine Freude bereiten."
+    },
+    {
+      "claim": "Man kann auch Aufmerksamkeit, Vertrauen oder Liebe schenken.",
+      "url": "https://de.wikipedia.org/wiki/Geschenk",
+      "quote": "Im übertragenen Sinne kann man auch jemandem seine Aufmerksamkeit, sein Vertrauen oder seine Liebe schenken."
+    },
+    {
+      "claim": "Je nach Kultur sind Gastgeschenke bei Besuchen üblich.",
+      "url": "https://de.wikipedia.org/wiki/Geschenk",
+      "quote": "Des Weiteren sind je nach Kulturkreis und Anlass auch Gastgeschenke bei Besuchen üblich."
+    }
+  ]
+}
